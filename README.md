@@ -54,16 +54,58 @@ Clase 9 Vié  1-Abr 2022:
 * 3.3 Ejemplos de Filtrado con Máscaras [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_MaskScan.m)
 * 3.3 Apuntes para entender Filtros con Máscaras [Apuntes](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Mascaras.pdf)
 
-Clase 10 Sáb 2-Abr 2022:
+Clase 10 Vier 13-May 2022:
 * 4.1 Respuesta al Impulso [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_FuncionImpulso.pdf)
 * 4.2 Convolución en 1D [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Convolucion1D.pdf)
 * 4.2 Ejemplo de Convolución en 1D Contínua [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Convolucion1DContinua.m)
 * 4.2 Ejemplo Convolución 1D Contínua [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Convolucion1D_jupiter.ipynb)
 * 4.2 Convolución en 1D(Ejercicios Opcional) [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Ejercicios_Convolucion1D.pdf)
 
-Clase 11 Vié 8-Abr 2022:
+Clase 11 Sab 14-May 2022:
 * 4.4 Transformada de Fourier 1D [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier1D.pdf)
 * 4.4 Ejemplo de Señales de Audio (1D) [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Audio.m)
 * 4.4 Ejemplo de Señales de Audio (1D) [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_AudioGong.m)
 * 4.4 Ejeplo Transformada de Fourier(1D) con Audio [Código jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier1D.rar)
-* 
+* 4.4 Apuntes para Transformada de Fourier 1D [Apuntes](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_TransformadaFourier1D.pdf)
+* 4.4 Ejemplo de Señales de Audio (1D) [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Audiotest.m)
+* 4.4 Ejemplo de Frecuencias 1D [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_AudioPhone.m)
+* 4.4 Ejemlos de Fourier 1D [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier1D_FiltroIdeal.m)
+* 4.4 Fourier 1D: Filtro Ideal [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier1D_FiltroIdeal.m)
+* 4.4 Seris de Fourier (Complejas) [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_SerieFourierCn.m)
+* 4.4 Series de Fourier (Reales) [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_SerieFourier.m)
+* 4.4 Tren de Impulsos [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_TrenImpulsos.m)
+* 4.4 Muestreo de Sinusoide [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_MuestreoSinusoide.m)
+* 4.4 Muestreo de Audio [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_MuestreoAudio.m)
+* 4.4 Muestreo de Señales 1D [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Muestreo1D_DFT.pdf)
+
+Clase 12 Vier 20-May 2022:
+* 4.5 Transformada de Fourier 2D [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier_2D.pdf)
+* 4.5 Función Impulso en 2D [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Impulso_2D.pdf)
+* 4.5 Muestreo en 2D [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Muestreo_2D.pdf)
+* 4.5 Fourier 2D Teoría [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier1D_Teoria_Diap.pdf)
+
+Clase 13 Sáb 21-May 2022: Ejercicios en Clase
+* Asignación de Tareas en clase
+
+Clase 14 Vier 27-May 2022:
+* 4.5 Implementación de Filtros usando Transformada de Fourier [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier2D_ImplementacionFiltros.pdf)
+* 4.5 Ejemplos Filtros 2D Usando Fourier [Código](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier2D_Filtering.ipynb)
+* Trabajo en Clase [Código](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Eje04_Filtrado2D.ipynb)
+* Tarea 2 [Parcial] (https://github.com/joseramoniglesias/tratamiento/blob/main/Tareas/Tarea_2/Tarea%2002.pdf)
+
+Clase 15 Sáb 28-May 2022:
+* 4.5 Bloques en 2D [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier2DBloques.m)
+* 4.4 Efecto Aliasing al girar una llanta [Youtube](https://www.youtube.com/watch?v=VNftf5qLpiA)
+* 5.2 Filtro Homomórfico [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/TRAT05_FiltroHomomorfico.pdf)
+* 5.2 Ejemplo de Filtro Homomórfico [C+odigo](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT05_FiltroHomomorfico.ipynb)
+* 4.6 Transformada Discreta de Coseno (DCT) [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_TransformadaDCT.pdf)
+* 4.6-JPEG DCT, Discrete Cosine Transform [Video](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
+
+Clase 16 Vie 3-jun 2022:
+* 6.1 Motivación [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Examples.pdf)
+* 6.1-Restauracion con degradacion por movimiento lineal uniforme [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Introduccion.pdf)
+* 6.1-Ejemplo de restauracion [Código](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap05_Mejoramiento/Matlab/Cap06_ImageRestoration.ipynb)
+* 6.1-Paper-1 de Restauracion de Imagenes [Apuntes](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Restauracion_parte_1.pdf)
+
+Clase 17 Sáb 4-Jun 2022:
+6.1-Ejercicio en clase
