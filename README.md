@@ -108,4 +108,4 @@ Clase 16 Vie 3-jun 2022:
 * 6.1-Paper-1 de Restauracion de Imagenes [Apuntes](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Restauracion_parte_1.pdf)
 
 Clase 17 Sáb 4-Jun 2022:
-* 6.1-Ejercicio en clase
+* 6.1-Ejercicio en clase (Cuestionario)
