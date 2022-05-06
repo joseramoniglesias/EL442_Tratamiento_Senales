@@ -54,4 +54,16 @@ Clase 9 Vié  1-Abr 2022:
 * 3.3 Ejemplos de Filtrado con Máscaras [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_MaskScan.m)
 * 3.3 Apuntes para entender Filtros con Máscaras [Apuntes](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Mascaras.pdf)
 
+Clase 10 Sáb 2-Abr 2022:
+* 4.1 Respuesta al Impulso [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_FuncionImpulso.pdf)
+* 4.2 Convolución en 1D [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Convolucion1D.pdf)
+* 4.2 Ejemplo de Convolución en 1D Contínua [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Convolucion1DContinua.m)
+* 4.2 Ejemplo Convolución 1D Contínua [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Convolucion1D_jupiter.ipynb)
+* 4.2 Convolución en 1D(Ejercicios Opcional) [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Ejercicios_Convolucion1D.pdf)
 
+Clase 11 Vié 8-Abr 2022:
+* 4.4 Transformada de Fourier 1D [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier1D.pdf)
+* 4.4 Ejemplo de Señales de Audio (1D) [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Audio.m)
+* 4.4 Ejemplo de Señales de Audio (1D) [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_AudioGong.m)
+* 4.4 Ejeplo Transformada de Fourier(1D) con Audio [Código jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier1D.rar)
+* 
