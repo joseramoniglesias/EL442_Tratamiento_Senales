@@ -1,5 +1,5 @@
 # Tratamiento de Señales
-Curso de Tratamiento de Señales
+Curso de Tratamiento de Señales 2022-1
 ## Planificación del Curso por Días
 
 Clase 01 Vi 04-Mar 2022:
