@@ -106,24 +106,18 @@ Clase 16 Vie 3-jun 2022:
 * 6.1-Restauracion con degradacion por movimiento lineal uniforme [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Introduccion.pdf)
 * 6.1-Ejemplo de restauracion [Código](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap05_Mejoramiento/Matlab/Cap06_ImageRestoration.ipynb)
 * 6.1-Paper-1 de Restauracion de Imagenes [Apuntes](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Restauracion_parte_1.pdf)
-
-Clase 17 Sáb 4-Jun 2022:
 * 6.1-Ejercicio en clase (Cuestionario)
-
-Clase 18 Vie. 10-Jun-2022:
 * 6.1-Solucion al cuestionario de la clase anterior
 * 6.1-Restauracion con degradacion 2D [PDF]
 
-Clase 19 Sab. 11-Jun-2022:
+Clase 17 Sab. 4-Jun-2022:
 * 6.1-Deconvolucion [PDF]
 * 6.1-Estimacion de PSF [PDF]
 * 6.4-Filtro Wiener [Código Jupiter]
-
-Clase 20 Vie. 17-jun-2022:
 * 7.1-Morfologia [PDF]
 * 7.1-Ejemplos de morfologia [Código Jupiter]
 
-Clase 21 Sab. 18-Jun-2022:
+Clase 18 Vie. 10-Jun-2022:
 * 7.2-TopHat [PDF]
 * 7.2-Ejemplo Top Hat [Código Jupiter]
 * 7.2-Mediana [PDF]
@@ -132,14 +126,12 @@ Clase 21 Sab. 18-Jun-2022:
 * 8.3-Region Growing [PDF]
 * 8.3-Ejemplo Region Growing [Código Jupiter]
 
-Clase 22 Vie. 24-Jun-2022:
+Clase 19 Sab. 11-Jun-2022:
 * 8.2-Metodo de Otsu [PDF]
 * 8.2-Metodo de MSER [PDF]
 * 8.1-Deteccion de bordes (PARTE 1) [PDF]
 * 8.2-Ejemplo de deteccion de regiones (OTSU, MSER, etc) [Código Jupiter]
 * 8.2-Ejemplo de deteccion de bordes [Código Jupiter]
-
-Clase 23 Sab. 25-Jun-2022:
 * 8.1-Deteccion de bordes (PARTE 2) [PDF]
 * 8.2-Ejemplo de deteccion de bordes [Código Jupiter]
 * 8.1-Transformada de Hough [PDF]
@@ -147,21 +139,21 @@ Clase 23 Sab. 25-Jun-2022:
 * 8.1-Ejemplo de Transformada de Hough [Código Jupiter]
 * 8.1-Segmentacion de Iris usando Transformada de Hough [Matlab]
 
-Clase 24 Vie. 1-jul-2022:
+Clase 20 Vie. 17-jun-2022:
 * 8.3-Segmentacion usando Watershed [PDF]
 * 8.3-Ejemplo Watershed [Código Jupiter]
 * 8.1-Segmentacion con filtros tipo template [PDF]
 * 8.5-Segmentacion de movimiento [PDF]
 * 8.5-Ejemplo de segmentacion de movimiento [Código Jupiter]
 
-Clase 25 Sab. 2-Jul-2022:
+Clase 21 Sab. 18-Jun-2022:
 * 2.2-Procesamiento de imagenes a color (introduccion) [PDF]
 * 2.2-Segmentacion de imagenes a color [PDF]
 * 2.1-Segmentacion a color con k-means [Código Jupiter]
 * 2.1-Paper de segmentacion a color [Paper]
 * 2.1-Segmentacion a color usando metodo de paper (Python) [Código]
 
-Clase 26 Vie. 8-Jul-2022:
+Clase 22 Vie. 24-Jun-2022:
 * 2.2-Espacios de color [PDF]
 * 2.1-Ejemplo de mejoramiento de imagen a color oscura [Código Jupiter]
 * 2.2-Preguntas Frecuentes sobre el Color [PDF]
@@ -173,5 +165,13 @@ Clase 26 Vie. 8-Jul-2022:
 * 2.3-Herramientas para la conversiones de espacios de color [Link]
 * 2.3-Filtros artisticos [PDF]
 
-Clase 29 Sab. 9-Jul-2022:
-8.6-Presentaciones de Proyecto Final
+Clase 23 Sab. 25-Jun-2022:
+8.6-Avances Presentaciones de Proyecto Final
+
+Clase 24 Vie. 1-Jul-2022:
+* Presentación Proyecto Final
+
+_______________________________________________________
+
+Actualizado el 9-05-2022
+
