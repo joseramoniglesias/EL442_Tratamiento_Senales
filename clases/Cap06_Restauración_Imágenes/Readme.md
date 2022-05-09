@@ -1,5 +1,5 @@
-##Capitulo 06: Restauracion de imagenes
-6.1 Modelos de ruido y restauracion en base a modelos:
+## Capitulo 06: Restauracion de imagenes
+# 6.1 Modelos de ruido y restauracion en base a modelos:
 
 * Motivación [PPT]
 * Restauracion con degradacion por movimiento lineal uniforme [PPT]
@@ -14,4 +14,4 @@
 # 6.2 Restauracion con filtros espaciales en presencia de ruido:
 # 6.3 Reduccion de ruido periodico en el dominio de la frecuencia:
 # 6.4 Filtros inversos, minimos cuadrados (Wiener):
-# Filtro Wiener [Colab]
+* Filtro Wiener [Colab]
