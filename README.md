@@ -150,20 +150,20 @@ Clase 21 Sab. 18-Jun-2022:
 * 2.2-Procesamiento de imagenes a color (introduccion) [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_Introduccion.pdf)
 * 2.2-Segmentacion de imagenes a color [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_Segmentacion.pdf)
 * 2.1-Segmentacion a color con k-means [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Matlab/TRAT02_ColorSegmentation_KMeans.ipynb)
-* 2.1-Paper de segmentacion a color [Paper]()
-* 2.1-Segmentacion a color usando metodo de paper (Python) [Código]
+* 2.1-Paper de segmentacion a color [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorSegmentation_Paper.pdf)
+* 2.1-Segmentacion a color usando metodo de paper (Python) [Código](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Matlab/Cap02_ColorSegmentation.ipynb)
 
 Clase 22 Vie. 24-Jun-2022:
-* 2.2-Espacios de color [PDF]
-* 2.1-Ejemplo de mejoramiento de imagen a color oscura [Código Jupiter]
-* 2.2-Preguntas Frecuentes sobre el Color [PDF]
-* 2.3-Conversiones de espacios de color [Apuntes]
-* 2.3-Capitulo sobre Color (libro Forsyth) [Apuntes]
-* 2.3-Paper sobre medicion Lab a partir de imagenes RGB [Paper]
-* 2.3-La fisica y la sicologia del color (Andrew Hanson) [YouTube]
+* 2.2-Espacios de color [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorSpaces.pdf)
+* 2.1-Ejemplo de mejoramiento de imagen a color oscura [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Matlab/TRAT02_ColorEnhacement.ipynb)
+* 2.2-Preguntas Frecuentes sobre el Color [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorFAQ.pdf)
+* 2.3-Conversiones de espacios de color [Apuntes]()
+* 2.3-Capitulo sobre Color (libro Forsyth) [Apuntes](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_CapituloColor_Forsyth.pdf)
+* 2.3-Paper sobre medicion Lab a partir de imagenes RGB [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorMeasurementLab_Paper.pdf)
+* 2.3-La fisica y la sicologia del color (Andrew Hanson) [YouTube](https://youtu.be/af78RPi6ayE)
 * 2.3-Espacios HSL y HSV [Apuntes]
-* 2.3-Herramientas para la conversiones de espacios de color [Link]
-* 2.3-Filtros artisticos [PDF]
+* 2.3-Herramientas para la conversiones de espacios de color [Link](http://brucelindbloom.com/)
+* 2.3-Filtros artisticos [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ArtisticFilters.pdf)
 
 Clase 23 Sab. 25-Jun-2022:
 8.6-Avances Presentaciones de Proyecto Final
