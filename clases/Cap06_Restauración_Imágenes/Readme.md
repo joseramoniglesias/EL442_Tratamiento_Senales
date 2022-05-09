@@ -6,8 +6,8 @@
 * Restauracion de Imagenes [Paper]
 * Ejemplo de restauracion [Colab]
 * Paper-1 de Restauracion de Imagenes [Apuntes]
-* Ejercicio en clase (ver instrucciones en video de clases) [MERY9241]
-* Solucion al cuestionario de la clase anterior [PPT]
+* Ejercicio en clase
+*  Solucion al cuestionario de la clase anterior [PPT]
 * Restauracion con degradacion 2D [PPT]
 * Deconvolucion [PPT]
 * Estimacion de PSF [PPT]
