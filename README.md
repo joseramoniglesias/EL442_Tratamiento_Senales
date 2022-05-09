@@ -108,49 +108,49 @@ Clase 16 Vie 3-jun 2022:
 * 6.1-Paper-1 de Restauracion de Imagenes [Apuntes](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Restauracion_parte_1.pdf)
 * 6.1-Ejercicio en clase (Cuestionario)
 * 6.1-Solucion al cuestionario de la clase anterior
-* 6.1-Restauracion con degradacion 2D [PDF]
+* 6.1-Restauracion con degradacion 2D [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/TRAT06_Blur2D.pdf)
 
 Clase 17 Sab. 4-Jun-2022:
-* 6.1-Deconvolucion [PDF]
-* 6.1-Estimacion de PSF [PDF]
-* 6.4-Filtro Wiener [Código Jupiter]
-* 7.1-Morfologia [PDF]
-* 7.1-Ejemplos de morfologia [Código Jupiter]
+* 6.1-Deconvolucion [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/TRAT06_Deconvolution.pdf)
+* 6.1-Estimacion de PSF [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/TRAT06_PSF.pdf)
+* 6.4-Filtro Wiener [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Matlab_Python/TRAT06_WienerFilter.ipynb)
+* 7.1-Morfologia [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT07_Morfologia.pdf)
+* 7.1-Ejemplos de morfologia [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap07_Morfologia/Mtalb_Python/TRAT07_OperadoresMorfologicos.ipynb)
 
 Clase 18 Vie. 10-Jun-2022:
-* 7.2-TopHat [PDF]
-* 7.2-Ejemplo Top Hat [Código Jupiter]
-* 7.2-Mediana [PDF]
+* 7.2-TopHat [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT07_TopHat.pdf)
+* 7.2-Ejemplo Top Hat [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap07_Morfologia/Mtalb_Python/TRAT07_TopHat.ipynb)
+* 7.2-Mediana [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT07_Mediana.pdf)
 * 7.2-Ejemplo Mediana [Código Jupiter]
-* 8.1-Segmentacion [PDF]
-* 8.3-Region Growing [PDF]
-* 8.3-Ejemplo Region Growing [Código Jupiter]
+* 8.1-Segmentacion [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT08_Segmentation.pdf)
+* 8.3-Region Growing [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT08_RegionGrowing.pdf)
+* 8.3-Ejemplo Region Growing [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap07_Morfologia/Mtalb_Python/TRAT07_RegionGrowing.ipynb)
 
 Clase 19 Sab. 11-Jun-2022:
-* 8.2-Metodo de Otsu [PDF]
-* 8.2-Metodo de MSER [PDF]
-* 8.1-Deteccion de bordes (PARTE 1) [PDF]
-* 8.2-Ejemplo de deteccion de regiones (OTSU, MSER, etc) [Código Jupiter]
-* 8.2-Ejemplo de deteccion de bordes [Código Jupiter]
-* 8.1-Deteccion de bordes (PARTE 2) [PDF]
-* 8.2-Ejemplo de deteccion de bordes [Código Jupiter]
-* 8.1-Transformada de Hough [PDF]
-* 8.1-Transformada de Hough (ejemplo simple) [Matlab]
-* 8.1-Ejemplo de Transformada de Hough [Código Jupiter]
+* 8.2-Metodo de Otsu [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_Otsu.pdf)
+* 8.2-Metodo de MSER [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_MSER.pdf)
+* 8.1-Deteccion de bordes (PARTE 1) [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_Bordes_1.pdf)
+* 8.2-Ejemplo de deteccion de regiones (OTSU, MSER, etc) [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_RegionSegmentation.ipynb)
+* 8.2-Ejemplo de deteccion de bordes [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_EdgeDetection.ipynb)
+* 8.1-Deteccion de bordes (PARTE 2) [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_Bordes_2.pdf)
+* 8.2-Ejemplo de deteccion de bordes [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_EdgeDetection.ipynb)
+* 8.1-Transformada de Hough [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_Hough.pdf)
+* 8.1-Transformada de Hough (ejemplo simple) [Matlab]()
+* 8.1-Ejemplo de Transformada de Hough [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_Hough_Transform.ipynb)
 * 8.1-Segmentacion de Iris usando Transformada de Hough [Matlab]
 
 Clase 20 Vie. 17-jun-2022:
-* 8.3-Segmentacion usando Watershed [PDF]
-* 8.3-Ejemplo Watershed [Código Jupiter]
-* 8.1-Segmentacion con filtros tipo template [PDF]
-* 8.5-Segmentacion de movimiento [PDF]
-* 8.5-Ejemplo de segmentacion de movimiento [Código Jupiter]
+* 8.3-Segmentacion usando Watershed [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_Watershed.pdf)
+* 8.3-Ejemplo Watershed [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_Watershed.ipynb)
+* 8.1-Segmentacion con filtros tipo template [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_SegmentacionMascaras.pdf)
+* 8.5-Segmentacion de movimiento [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_SegMovimiento.pdf)
+* 8.5-Ejemplo de segmentacion de movimiento [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_SegVideo.ipynb)
 
 Clase 21 Sab. 18-Jun-2022:
-* 2.2-Procesamiento de imagenes a color (introduccion) [PDF]
-* 2.2-Segmentacion de imagenes a color [PDF]
-* 2.1-Segmentacion a color con k-means [Código Jupiter]
-* 2.1-Paper de segmentacion a color [Paper]
+* 2.2-Procesamiento de imagenes a color (introduccion) [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_Introduccion.pdf)
+* 2.2-Segmentacion de imagenes a color [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_Segmentacion.pdf)
+* 2.1-Segmentacion a color con k-means [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Matlab/TRAT02_ColorSegmentation_KMeans.ipynb)
+* 2.1-Paper de segmentacion a color [Paper]()
 * 2.1-Segmentacion a color usando metodo de paper (Python) [Código]
 
 Clase 22 Vie. 24-Jun-2022:
