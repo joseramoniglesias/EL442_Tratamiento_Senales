@@ -11,7 +11,7 @@
 * Restauracion con degradacion 2D [PPT]
 * Deconvolucion [PPT]
 * Estimacion de PSF [PPT]
-6.2 Restauracion con filtros espaciales en presencia de ruido:
-6.3 Reduccion de ruido periodico en el dominio de la frecuencia:
-6.4 Filtros inversos, minimos cuadrados (Wiener):
-Filtro Wiener [Colab]
+# 6.2 Restauracion con filtros espaciales en presencia de ruido:
+# 6.3 Reduccion de ruido periodico en el dominio de la frecuencia:
+# 6.4 Filtros inversos, minimos cuadrados (Wiener):
+# Filtro Wiener [Colab]
