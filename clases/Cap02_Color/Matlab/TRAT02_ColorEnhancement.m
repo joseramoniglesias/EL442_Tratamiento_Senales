@@ -3,9 +3,10 @@
 % Color enhancement using equalization of channel in HSI space
 %
 % Computer Vision Course
-% (c) José Ramón Iglesias(2020)
+% (c) JosÃ© ramÃ³n Iglesias(2020)
 
 I = imread('valeria.png');
+I = imresize(I,3);
 
 rh = imhist(I(:,:,1));
 gh = imhist(I(:,:,2));

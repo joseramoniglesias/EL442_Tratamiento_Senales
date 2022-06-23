@@ -3,7 +3,7 @@
 % Visualization of color images using a color palette. 
 %
 % Computer Vision Course
-% (c) José Ramón Iglesias(2020)
+% (c) JosÃ© ramÃ³n Iglesias(2020)
 
 % We want to generate an image with the following 4 squares of 100x100
 % pixels:

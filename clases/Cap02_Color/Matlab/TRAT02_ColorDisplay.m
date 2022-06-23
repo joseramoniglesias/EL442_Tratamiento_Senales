@@ -2,7 +2,8 @@
 %
 % Objetivo: mostrar los conceptos de canales RGB y paletas de color.
 %
-% José ramón Iglesias (2020)
+%(c) JosÃ© ramÃ³n Iglesias(2020)
+
 
 close all
 disp('Despliegue de una imagen a color, histograma y sus canales RGB');
@@ -98,7 +99,7 @@ end
 
 close all
 disp('Paleta de colores para la luna');
-X = imread('moon.tif');
+X = imread('../images/moon.tif');
 figure(1)
 imshow(X,[]);
 title('imagen original')
