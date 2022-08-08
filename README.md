@@ -84,14 +84,14 @@ Clase 12 Sab 1-Oct 2022:
 * 4.5 Muestreo en 2D [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Muestreo_2D.pdf)
 * 4.5 Fourier 2D Teoría [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier1D_Teoria_Diap.pdf)
 
-Clase 13 Sáb 21-May 2022: Ejercicios en Clase
+Clase 13 Vie 7-Oct 2022: Ejercicios en Clase
 * Asignación de Tareas en clase
 
 Clase 14 Vier 27-May 2022:
 * 4.5 Implementación de Filtros usando Transformada de Fourier [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier2D_ImplementacionFiltros.pdf)
 * 4.5 Ejemplos Filtros 2D Usando Fourier [Código](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier2D_Filtering.ipynb)
 * Trabajo en Clase [Código](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Eje04_Filtrado2D.ipynb)
-* Tarea 2 [Parcial] (https://github.com/joseramoniglesias/tratamiento/blob/main/Tareas/Tarea_2/Tarea%2002.pdf)
+* Tarea 2 [Tarea a resolver](https://github.com/joseramoniglesias/tratamiento/blob/main/Tareas/Tarea_2/Tarea%2002.pdf)
 
 Clase 15 Sáb 28-May 2022:
 * 4.5 Bloques en 2D [Matlab](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier2DBloques.m)
