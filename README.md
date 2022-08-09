@@ -123,7 +123,7 @@ Curso de Tratamiento de Señales 2022-2
 
 ### Clase 17 Vie 21-Oct 2022:
 * 4.4 Efecto Aliasing al girar una llanta [Youtube](https://www.youtube.com/watch?v=VNftf5qLpiA)
-* 4.6 Transformada Discreta de Coseno (DCT) [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_TransformadaDCT.pdf)
+* 4.6 Transformada Discreta de Coseno (DCT) [PPT](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_TransformadaDCT.pdf)
 * 4.6-JPEG DCT, Discrete Cosine Transform [Video](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
 * 4.6-Ejemplo basico de Compresion de Imagenes [[Matlab]](https://github.com/joseramoniglesias/imagenes/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Compression.m)
 * 4.6-Ejemplo basico de compresion 1D [[Matlab]](https://github.com/joseramoniglesias/imagenes/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_CompressionFila.m)
