@@ -228,14 +228,14 @@ Curso de Tratamiento de Señales 2022-2
 * 8.5-Segmentacion de movimiento [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_SegMovimiento.pdf)
 * 8.5-Ejemplo de segmentacion de movimiento [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_SegVideo.ipynb)
 
-Clase 28 Sab. 26-Nov-2022:
+### Clase 28 Sab. 26-Nov-2022:
 * 2.2-Procesamiento de imagenes a color (introduccion) [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_Introduccion.pdf)
 * 2.2-Segmentacion de imagenes a color [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_Segmentacion.pdf)
 * 2.1-Segmentacion a color con k-means [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Matlab/TRAT02_ColorSegmentation_KMeans.ipynb)
 * 2.1-Paper de segmentacion a color [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorSegmentation_Paper.pdf)
 * 2.1-Segmentacion a color usando metodo de paper (Python) [Código](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Matlab/Cap02_ColorSegmentation.ipynb)
 
-Clase 29 Vie. 2-Dic-2022:
+### Clase 29 Vie. 2-Dic-2022:
 * 2.2-Espacios de color [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorSpaces.pdf)
 * 2.1-Ejemplo de mejoramiento de imagen a color oscura [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Matlab/TRAT02_ColorEnhacement.ipynb)
 * 2.2-Preguntas Frecuentes sobre el Color [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorFAQ.pdf)
@@ -247,10 +247,10 @@ Clase 29 Vie. 2-Dic-2022:
 * 2.3-Herramientas para la conversiones de espacios de color [Link](http://brucelindbloom.com/)
 * 2.3-Filtros artisticos [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ArtisticFilters.pdf)
 
-Clase 30 Sab. 3-Dic-2022:
+### Clase 30 Sab. 3-Dic-2022:
 8.6-Avances Presentaciones de Proyecto Final
 
-Clase 31 Vie. 9-Dic-2022:
+### Clase 31 Vie. 9-Dic-2022:
 * Presentación Proyecto Final
 
 _______________________________________________________
