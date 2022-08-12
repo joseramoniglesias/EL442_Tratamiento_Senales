@@ -17,11 +17,7 @@ Curso de Tratamiento de Señales 2022-2
 * 1.3 Segmentación Sencilla a Color [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_SimpleColorSegmentation_jupiter.ipynb)
 
 ### Clase 4 Sáb 3-Sep 2022:
-* 1.3 Segmentación de Frutos rojos [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_SegmentacionFrutosRojos.pdf)
-* 1.3 Trabajo en Clases [Código](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_Eje01_FrutosRojos.ipynb)
-
-### Clase 5 Vie 9-Sep 2022:
-* 1.2 Luz, espectro, percepción [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Luz-Ondas-Ojo.pdf)
+* 1.2 Luz, espectro, percepción [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Luz-Ondas-Ojo.pdf)
 * 1.2 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=nbwPPcwknPU)
 * 1.2 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
 * 1.2-Funcionamiento del ojo humano (problemas en la vision)[Video](https://www.youtube.com/watch?v=AsKeu4wm3XI)
@@ -29,6 +25,11 @@ Curso de Tratamiento de Señales 2022-2
 * 1.2-Ejemplo de Percepcion 2 [Matlab](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_Perception2.m)
 * 1.2-Simulacion de ondas [Link](https://www.falstad.com/ripple/)
 * 1.4-Ejemplos en Matlab para el Toolbox Image Processing [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_EjemploBasicoMatlab.pdf)
+* 1.4 Python - Ejemplos en Python (c) Cristian Nova S. (https://github.com/MonkyDCristian/Procesamiento_de_imagenes/blob/master/FPI.ipynb)
+
+### Clase 5 Vie 9-Sep 2022:
+* 1.3 Segmentación de Frutos rojos [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_SegmentacionFrutosRojos.pdf)
+* 1.3 Trabajo en Clases [Código](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_Eje01_FrutosRojos.ipynb)
 
 ### Clase 6 Sáb 10-Sep 2022:
 *  3.1 Transformacioines Geométricas [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_GeoTransformaciones.pdf)
