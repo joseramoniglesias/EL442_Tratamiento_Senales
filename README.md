@@ -3,8 +3,9 @@ Curso de Tratamiento de Señales 2022-2
 ## Planificación del Curso por Días
 
 ### Clase 01 Vi 26-Ago 2022:
-* 01. Programa del Curso [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Generales/Programa/PLAN%20DE%20ASIGNATURA_EL442_TRATAMIENTO_SE%C3%91ALES_2021_Corregido.pdf)
-* 01. Presentación del Curso [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Generales/Programa/TRAT00_Presentacion.pdf)
+* 0.1 Programa del Curso [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Generales/Programa/PLAN%20DE%20ASIGNATURA_EL442_TRATAMIENTO_SE%C3%91ALES_2021_Corregido.pdf)
+* 0.1 Presentación del Curso [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Generales/Programa/TRAT00_Presentacion.pdf)
+* 1.1 Pixel [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Generales/Programa/TRAT01_Pixels.pdf)
 
 ### Clase 2 Sáb 27-Ago 2022:
 * 1.1 Introducción Procesamiento de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Introduccion.pdf)
