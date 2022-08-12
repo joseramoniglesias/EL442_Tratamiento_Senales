@@ -9,7 +9,7 @@ Curso de Tratamiento de Señales 2022-2
 
 ### Clase 2 Sáb 27-Ago 2022:
 * 1.1 Introducción Procesamiento de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Introduccion.pdf)
-* 1.1 Ejemplo de Segmentación [repositorio](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap01_Introducci%C3%B3n/Matlab)
+* 1.1 Ejemplo de Segmentación [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/Matlab/TRAT01_Arroces.ipynb)
 
 ### Clase 3 Vie 2-Sep 2022:
 * 1.1 Adquisición de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Adquisicion.pdf)
