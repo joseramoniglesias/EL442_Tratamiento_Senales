@@ -25,6 +25,7 @@ Curso de Tratamiento de Señales 2022-2
 * 1.2-Ejemplo de Percepcion 2 [Matlab](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_Perception2.m)
 * 1.2-Simulacion de ondas [Link](https://www.falstad.com/ripple/)
 * 1.4-Ejemplos en Matlab para el Toolbox Image Processing [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_EjemploBasicoMatlab.pdf)
+1.2-Video - Ilusiones del color (Charla TED) [YouTube](https://www.youtube.com/watch?v=mf5otGNbkuc)
 
 ### Clase 5 Vie 9-Sep 2022:
 * 1.3 Segmentación de Frutos rojos [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_SegmentacionFrutosRojos.pdf)
