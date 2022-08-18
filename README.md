@@ -97,7 +97,7 @@ Curso de Tratamiento de Señales 2022-2
 * 4.5 Muestreo en 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Muestreo_2D.pdf)
 * 4.5 Fourier 2D Teoría [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier1D_Teoria_Diap.pdf)
 * 4.5 Interpretacion de la Transformada de Fourier 2D [Matlab](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_FourierInterpretacion2D.m)
-* 4.5-Funciones Base de Fourier 2D [[Matlab]][https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_FourierBasis.m)]
+* 4.5-Funciones Base de Fourier 2D [Matlab][https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_FourierBasis.m)]
 * 4.5-Visualizacion de funciones Base de Fourier 2D [[Matlab]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier2DVisualization.m)
 * 4.5-Ejemplo facil de Fourier 2D [[Matlab]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier2D_EasyExample.m))
 * 4.5-Ejemplo de Transformadas de Fourier 2D [[Matlab]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier2DFunciones.m))
@@ -106,9 +106,6 @@ Curso de Tratamiento de Señales 2022-2
 * 4.5-Ejemplo de Anti-Aliasing [[Matlab]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_AliasingBarbaraNew.m)
 * 4.3-Convolucion en 2D [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/main/clases/Cap04_Sistemas_Lineales/presentations/TRAT04_Fourier2D_Convolucion.PDF)
 * 4.5 Implementacion de la Transformada de Fourier (opcional) [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_ImplementacionTransformada.m)
-
-### Clase 14 Sab 8-Oct 2022: Ejercicios en Clase
-
 
 ### Clase 15 Vier 14-Oct 2022:
 * 4.5 Implementación de Filtros usando Transformada de Fourier [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier2D_ImplementacionFiltros.pdf)
