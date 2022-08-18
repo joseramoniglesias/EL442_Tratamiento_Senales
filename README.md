@@ -71,8 +71,8 @@ Curso de Tratamiento de Señales 2022-2
 * 4.4 Apuntes para Transformada de Fourier 1D [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_TransformadaFourier1D.pdf)
 * 4.4 Ejemplo de Señales de Audio (1D) [Matlab](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Audiotest.m)
 * 4.4 Ejemplo de Frecuencias 1D [Matlab](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_AudioPhone.m)
-* 4.4 Fourier 1D: Filtro Ideal [Matlab] (https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier1D_FiltroIdeal.m)
-* 4.4 Ejemplos de Fourier 1D [Matlab] (https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier1D_Idea.m)
+* 4.4 Fourier 1D: Filtro Ideal [Matlab](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier1D_FiltroIdeal.m) 
+* 4.4 Ejemplos de Fourier 1D [Matlab](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier1D_Idea.m)
 
 
 ### Clase 12 Sab 1-Oct-2022:
