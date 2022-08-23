@@ -15,8 +15,8 @@ Curso de Tratamiento de Señales 2022-2
 
 ### Clase 3 Vie 2-Sep 2022:
 * 1.1 Adquisición de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Adquisicion.pdf)
-* 1.3 Samppling (Muestreo espacial y de Tonos de gris) [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_Sampling_jupiter.ipynb)
-* 1.3 Segmentación Sencilla a Color [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_SimpleColorSegmentation_jupiter.ipynb)
+* 1.3 Samppling (Muestreo espacial y de Tonos de gris) [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_Sampling.ipynb)
+* 1.3 Segmentación Sencilla a Color [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_Segmentacion_Sencilla_a_Color.ipynb)
 
 ### Clase 4 Sáb 3-Sep 2022:
 * 1.2 Luz, espectro, percepción [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Luz-Ondas-Ojo.pdf)
