@@ -36,7 +36,7 @@ Curso de Tratamiento de Señales 2022-2
 ### Clase 6 Sáb 10-Sep 2022:
 *  3.1 Transformacioines Geométricas [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_GeoTransformaciones.pdf)
 *  3.1 Ejemplo Louvre [Matlab](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_Louvre.m)
-*  3.1 Ejemplo de Transformaciones Geométricas [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_GeoTransformacion_jupiter.ipynb)
+*  3.1 Ejemplo de Transformaciones Geométricas [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_GeoTransformacion.ipynb)
 *  3.1 Interpolación Bilineal [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Interpolation_bilinear.pdf)
 *  3.1 Ejercicio de Interolación [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_EjercicioInterpolacion.pdf)
 *  3.1 Transformación Geométrica: Convertir Elipse-Circulo [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Conversion_Elipse_Circulo.pdf)
@@ -54,7 +54,7 @@ Curso de Tratamiento de Señales 2022-2
 
 ### Clase 9 Vié  23-Sep 2022:
 * 3.3 Animación con Máscaras [Video](https://twitter.com/3blue1brown/status/1303489896519139328?s=20)
-* 3.3 Ejemplos con Máscaras [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_FiltrosMascaras_jupiter.ipynb)
+* 3.3 Ejemplos con Máscaras [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_FiltrosMascaras.ipynb)
 * 3.3 Ejemplos de Filtrado con Máscaras [Matlab](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_MaskScan.m)
 * 3.3 Apuntes para entender Filtros con Máscaras [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Mascaras.pdf)
 
@@ -62,7 +62,7 @@ Curso de Tratamiento de Señales 2022-2
 * 4.1 Respuesta al Impulso [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_FuncionImpulso.pdf)
 * 4.2 Convolución en 1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Convolucion1D.pdf)
 * 4.2 Ejemplo de Convolución en 1D Contínua [Matlab](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Convolucion1DContinua.m)
-* 4.2 Ejemplo Convolución 1D [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Convolucion1D_jupiter.ipynb)
+* 4.2 Ejemplo Convolución 1D [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Convolucion1D.ipynb)
 * 4.2 Convolución en 1D(Ejercicios Opcional) [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Ejercicios_Convolucion1D.pdf)
 
 ### Clase 11 Vie 30-Sep 2022:
