@@ -7,6 +7,7 @@ Curso de Tratamiento de Señales 2022-2
 * 0.1 Presentación del Curso [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Generales/Programa/TRAT00_Presentacion.pdf)
 * 1.1 Pixel [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Generales/Programa/TRAT01_Pixels.pdf)
 * 1.2 Descargar Anaconda [Internet](https://www.anaconda.com/)
+* 1.2 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
 * 1.2 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
 
 ### Clase 2 Sáb 27-Ago 2022:
