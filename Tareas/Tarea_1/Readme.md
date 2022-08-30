@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-El objetivo de esta tarea es realizar un programa individual que determine automáticamente la hora que indica un reloj. En esta [carpeta]() se encuentran 6 fotografías del reloj, que deben ser leídas por un programa y datos para determinar para automáticamente qué hora es, tal y como se muestra en este ejemplo para la primera imagen.
+El objetivo de esta tarea es realizar un programa individual que determine automáticamente la hora que indica un reloj. En esta [carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/Tareas/Tarea_1/Im%C3%A1genes) se encuentran 6 fotografías del reloj, que deben ser leídas por un programa y datos para determinar para automáticamente qué hora es, tal y como se muestra en este ejemplo para la primera imagen.
 
 ![image](https://user-images.githubusercontent.com/38440709/187480247-a16977a0-83de-4c05-86fc-0ee0fc8d37de.png)
 
