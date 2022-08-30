@@ -10,20 +10,20 @@ En la fecha indicada, parte de la clase sera usada para realizar esta actividad.
 
 Ejemplo: La actividad 5, desarrollo de un codigo en DataSpell, se realiza el sábado 1/10 en clases y se envía al profesor el domingo 2/10 a mas tardar a las 9pm.
 
-Vi. 9-Sep Trabajo en Clase Ejer_02: DataSpell - Ejercicio Frutos Rojos (individual)
-Sa. 17-Sep Trabajo en Clase Ejer_03: dataSpell - Filtros, histogramas Tokyo (individual)
-Sa. 1-Oct Trabajo en Clase Ejer_05: DataSpell - Ejercicio Convolucion y Fourier 1D (individual)
-Sa. 15-Oct Trabajo en Clase Ejer_06: DataSpell - Ejercicio Fourier 2D (individual)
-Sa. 29-Oct Cuestionario en clase
-Vi. 18-Nov Trabajo en Clase Ejer_09: Trabajo en Grupo (grupal)
+* Vi. 9-Sep Trabajo en Clase Ejer_02: DataSpell - Ejercicio Frutos Rojos (individual)
+* Sa. 17-Sep Trabajo en Clase Ejer_03: dataSpell - Filtros, histogramas Tokyo (individual)
+* Sa. 1-Oct Trabajo en Clase Ejer_05: DataSpell - Ejercicio Convolucion y Fourier 1D (individual)
+* Sa. 15-Oct Trabajo en Clase Ejer_06: DataSpell - Ejercicio Fourier 2D (individual)
+* Sa. 29-Oct Cuestionario en clase
+* Vi. 18-Nov Trabajo en Clase Ejer_09: Trabajo en Grupo (grupal)
 
 
 ## Tareas
 El codigo de la tarea se envía al profesor a mas tardar a las 9pm de la fecha indicada.
 
-Sa. 24-Sep Tarea 01: Lectura reloj analogico
-Vi. 28-Oct Tarea 02: Filtros 2D usando Fourier
-Sa. 19-Nov Tarea 03: Restauracion de imagenes
+* Sa. 24-Sep Tarea 01: Lectura reloj analogico
+* Vi. 28-Oct Tarea 02: Filtros 2D usando Fourier
+* Sa. 19-Nov Tarea 03: Restauracion de imagenes
 
 ## Proyecto
 
