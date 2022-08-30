@@ -32,7 +32,7 @@ Curso de Tratamiento de Señales 2022-2
 
 ### Clase 5 Vie 9-Sep 2022:
 * 1.3 Segmentación de Frutos rojos [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_SegmentacionFrutosRojos.pdf)
-* 1.3 Trabajo en Clases [Código](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_Eje01_FrutosRojos.ipynb)
+* 1.3 Trabajo en Clases Ejer_02 [Código](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_Eje01_FrutosRojos.ipynb)
 
 ### Clase 6 Sáb 10-Sep 2022:
 *  3.1 Transformacioines Geométricas [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_GeoTransformaciones.pdf)
@@ -51,7 +51,7 @@ Curso de Tratamiento de Señales 2022-2
 * 3.1 Operaciones con Máscaras [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Mascaras_Diap.pdf)
 
 ### Clase 8 Sáb 17-Sep 2022:
-* 3.3 Trabajo en Clases [Codigo](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_Eje02_Tokio.ipynb)
+* 3.3 Trabajo en Clases Ejer_03 [Codigo](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_Eje02_Tokio.ipynb)
 
 ### Clase 9 Vié  23-Sep 2022:
 * 3.3 Animación con Máscaras [Video](https://twitter.com/3blue1brown/status/1303489896519139328?s=20)
@@ -79,7 +79,7 @@ Curso de Tratamiento de Señales 2022-2
 
 
 ### Clase 12 Sab 1-Oct-2022:
-* 4.2 Trabajo en Clases - Código)
+* 4.2 Trabajo en Clases Ejer_05 Código)
 
 ### Clase 13 Vie 7-Oct 2022:
 * 4.4 Teoría de la Transformada de Fourier 1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier1D_Teoria_Diap.pdf)
@@ -126,7 +126,7 @@ Curso de Tratamiento de Señales 2022-2
 * 4.5-Fase de Fourier 2D (opcional) [[Matlab]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier2DFase.m)
 
 ### Clase 16 Sab 15-Oct 2022:
-* Asignación de Tareas en clase (Trabajo en Grupo)
+* Tareas en clase Ejer_06 (Código)
 
 ### Clase 17 Vie 21-Oct 2022:
 * 4.5-Bloques en 2D (opcional) [[Matlab]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier2DBloques.m)
