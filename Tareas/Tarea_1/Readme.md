@@ -24,7 +24,7 @@ A partir del enunciado, se debe implementar una solución en Python. El código 
 
 ## Restricciones
 
-Las únicas librerías que se pueden usar son las siguientes 4:
+Las únicas librerías que se pueden usar son las siguientes 3:
 
 * numpy
 
