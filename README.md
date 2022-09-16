@@ -46,7 +46,7 @@ Curso de Tratamiento de Señales 2022-2
 * 3.1 Histogramas[PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Histogramas.pdf)
 * 3.1 Visuallización de Histogramas [Matlab](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_HistogramVisualization.m)
 * 3.1 Ecualización de Histogramas [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_HistogramaEcualizacion.pdf)
-* 3.1 Ejemplo de Equalización de Histogramas [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_Equalization_jupiter.ipynb)
+* 3.1 Ejemplo de Equalización de Histogramas [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_Equalization.ipynb)
 * 3.1 Operaciones Aritméticas [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Aritmetica.pdf)
 * 3.1 Operaciones con Máscaras [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Mascaras_Diap.pdf)
 
