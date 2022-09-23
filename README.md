@@ -55,7 +55,7 @@ Curso de Tratamiento de Señales 2022-2
 
 ### Clase 9 Vié  23-Sep 2022:
 * 3.3 Animación con Máscaras [Video](https://twitter.com/3blue1brown/status/1303489896519139328?s=20)
-* 3.3 Ejemplos con Máscaras [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_FiltrosMascaras.ipynb)
+* 3.3 Ejemplos con Máscaras [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_Filtros_Mascaras.ipynb)
 * 3.3 Ejemplos de Filtrado con Máscaras [Matlab](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_MaskScan.m)
 * 3.3 Apuntes para entender Filtros con Máscaras [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Mascaras.pdf)
 
