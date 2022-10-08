@@ -1,4 +1,3 @@
-% José Ramón Iglesias Gamarra 2020-2
 % Tomado de Castleman (1996), pp. 286
 N = 128;
 W = zeros(N,N);
@@ -11,7 +10,7 @@ end
 
 
 % Transformada en 1D
-f = rand(N,1); % señal en el tiempo
+f = rand(N,1); % senhal en el tiempo
 F = W*f;       % DFT de f, es lo mismo que F = fft(f)
 
 
