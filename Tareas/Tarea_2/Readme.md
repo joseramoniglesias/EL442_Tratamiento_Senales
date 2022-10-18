@@ -1,6 +1,7 @@
 ## Tarea 02: Filtros en el dominio de Fourier - 2022-2
 # Enunciado
-El objetivo de esta tarea es realizar de manera individual un programa que pueda filtrar imagenes ruidosas usando filtros en el dominio de Fourier. En esta [carpeta] (https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/Tareas/Tarea_2/Imagenes) se encuentran 5 fotografías ruidosas en blanco y negro, que deben ser leídas por un programa y procesadas para filtrar el ruido.
+El objetivo de esta tarea es realizar de manera individual un programa que pueda filtrar imagenes ruidosas usando filtros en el dominio de Fourier. En esta [carpeta]
+(https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/Tareas/Tarea_2/Imagenes) se encuentran 5 fotografías ruidosas en blanco y negro, que deben ser leídas por un programa y procesadas para filtrar el ruido.
 
 Se debe realizar un programa que basandose en el espectro de frecuencias en 2D logre eliminar el ruido periodico de las imagens. La entrada del programa es la imagen, la salida es la imagen filtrada. El programa debe ser el mismo para cada imagen, sin embargo, los parametros pueden ser distintos y pueden ser fijados manualmente para cada una de las imagenes. Con este fin disene una funcion que se llame FiltroTarea2 que reciba como entrada la imagen ruidosa 'X' y los n parametros p1, p2, ... pn, de esta manera se ejecuta Y = FiltroTarea2(X,p1,p2,..,pn) para obtener la imagen de salida 'Y'. En la tarea se debe especificar cuales son los parametros para cada una de las imagenes.
 
