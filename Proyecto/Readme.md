@@ -2,7 +2,8 @@
 ## Enunciado
 
 El objetivo de este proyecto es segmentar los pulmones que están presentes en una radiografia de la base de datos [Shenzhen](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4256233/). Para este proyecto se han seleccionado sólo 40 radiografías de la base de datos original. La segmentación consiste en encontrar la imagen binaria que contiene los pulmones.
- 
+ <img width="442" alt="Imagen1" src="https://user-images.githubusercontent.com/38440709/198708359-e1be3677-19a2-4390-ae9d-9733785fb6cf.png">
+
 Para este proyecto se debe probar el método propuesto en las 40 imágenes con sus correspondientes segmentaciones ideales disponibles en esta [carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Proyecto/project.zip). Una visualización de algunas de las imágenes y sus segmentaciones ideales se muestran a continuación:
  
 El algoritmo diseñado debe entregar una imagen binaria, y a la vez debe compararse con la segmentación ideal entregando por imagen los valores:
