@@ -18,7 +18,7 @@ El algoritmo diseñado debe entregar una imagen binaria, y a la vez debe compara
 
 Asimismo, se debe calcular el TPR (tasa de true positives) y el FPR (tasa de false positives) definidos respectivamente como TP/(TP+FN) y FP/(FP+TN), que idealmente deben ser 100% y 0%.
 
-### AGREGAR METRICA DE DESEMPEÑO (F1 Score):
+AGREGAR METRICA DE DESEMPEÑO (F1 Score):
 
 F1 = 2xTP / (2xTP + FP + FN)
 
@@ -27,7 +27,7 @@ Esta permitido usar librerías clásicas de procesamiento de imágenes, pero no 
 ## Modalidad de Trabajo
 Grupos de 4 personas
 
-##Idea del Proyecto
+## Idea del Proyecto
 
 Se debe entregar una página en formato PDF en la que se informe cómo piensan hacer el proyecto, esto corresponde al trabajo en clases E09 [ver fecha de entrega]( Tratamiento_Senales/Calendario.md at main · joseramoniglesias/Tratamiento_Senales (github.com)). Se debe indicar qué pasos van a seguir, qué métodos vistos en clase van a emplear, qué métodos no vistos en clases piensan estudiar, qué experimentos van a hacer y cualquier otro detalle de la solución que piensan implementar.
 
@@ -53,7 +53,7 @@ La presentación tipo powerpoint debe incluir:
 4.	Resultados obtenidos,
 
 se debe calcular el TPR (tasa de true positives) y el FPR (tasa de false positives) definidos respectivamente como TP/(TP+FN) y FP/(FP+TN), que idealmente deben ser 100% y 0%.
-## SE DEBE AGREGAR METRICA DE DESEMPEÑO (F1 Score):
+SE DEBE AGREGAR METRICA DE DESEMPEÑO (F1 Score):
 F1 = 2xTP / (2xTP + FP + FN)
 
 5.	Conclusiones (que funciona bien, que funciona mal, que se puede mejorar, dificultades, trabajo futuro, que se aprendió, etc.) y
