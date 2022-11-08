@@ -211,7 +211,7 @@ Curso de Tratamiento de Señales 2022-2
 * 7.2-TopHat [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT07_TopHat.pdf)
 * 7.2-Ejemplo Top Hat [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Matalb_Python/TRAT07_TopHat.ipynb)
 * 7.2-Mediana [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT07_Mediana.pdf)
-* 7.2-Ejemplo Mediana [Código Jupiter]
+* 7.2-Ejemplo Mediana [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Mtalb_Python/TRAT07_Median.ipynb)
 * 8.1-Segmentacion [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT08_Segmentation.pdf)
 * 8.3-Region Growing [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT08_RegionGrowing.pdf)
 * 8.3-Ejemplo Region Growing [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Mtalb_Python/TRAT07_RegionGrowing.ipynb)
