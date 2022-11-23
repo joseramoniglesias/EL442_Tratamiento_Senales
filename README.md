@@ -244,7 +244,7 @@ Curso de Tratamiento de Señales 2022-2
 * 2.2-Segmentacion de imagenes a color [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_Segmentacion.pdf)
 * 2.1-Segmentacion a color con k-means [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Matlab/TRAT02_ColorSegmentation_KMeans.ipynb)
 * 2.1-Paper de segmentacion a color [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorSegmentation_Paper.pdf)
-* 2.1-Segmentacion a color usando metodo de paper (Python) [Código](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Matlab/Cap02_ColorSegmentation.ipynb)
+
 
 ### Clase 29 Vie. 2-Dic-2022:
 * 2.2-Espacios de color [PPT](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorSpaces.pdf)
