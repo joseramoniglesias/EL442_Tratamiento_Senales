@@ -10,12 +10,12 @@ En la fecha indicada, parte de la clase sera usada para realizar esta actividad.
 
 Ejemplo: La actividad 5, desarrollo de un codigo en DataSpell, se realiza el sábado 1/10 en clases y se envía al profesor el domingo 2/10 a mas tardar a las 9pm.
 
-* Vi. 9-Sep Trabajo en Clase Ejer_02: DataSpell - Ejercicio Frutos Rojos (individual)
-* Sa. 17-Sep Trabajo en Clase Ejer_03: dataSpell - Filtros, histogramas Tokyo (individual)
-* Sa. 1-Oct Trabajo en Clase Ejer_05: DataSpell - Ejercicio Convolucion y Fourier 1D (individual)
-* Sa. 15-Oct Trabajo en Clase Ejer_06: DataSpell - Ejercicio Fourier 2D (individual)
-* Sa. 29-Oct Cuestionario en clase
-* Vi. 18-Nov Trabajo en Clase Ejer_09: Trabajo en Grupo (grupal)
+* Sa. 4-Mar Trabajo en Clase Ejer_02: DataSpell - Ejercicio Frutos Rojos (individual)
+* Sa. 11-Mar Trabajo en Clase Ejer_03: dataSpell - Filtros, histogramas Tokyo (individual)
+* Sa. 1-Abr Trabajo en Clase Ejer_05: DataSpell - Ejercicio Convolucion y Fourier 1D (individual)
+* Sa. 15-Abr Trabajo en Clase Ejer_06: DataSpell - Ejercicio Fourier 2D (individual)
+* Sa. 19-Mayo Cuestionario en clase
+* Vi. 10-Jun Trabajo en Clase Ejer_09: Trabajo en Grupo (grupal)
 
 
 ## Tareas
