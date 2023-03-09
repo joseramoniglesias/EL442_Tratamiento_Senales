@@ -4,7 +4,7 @@
 
 El objetivo de esta tarea es realizar un programa individual que determine automáticamente la hora que indica un reloj. En esta [carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/Tareas/Tarea_1/Im%C3%A1genes) se encuentran 6 fotografías del reloj, que deben ser leídas por un programa y datos para determinar para automáticamente qué hora es, tal y como se muestra en este ejemplo para la primera imagen.
 
-[![image]([https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Tareas/Tarea_1/ejemplo.jpg])]
+[image]([https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Tareas/Tarea_1/ejemplo.jpg])]
 
 Se debe realizar un programa que i) el reloj en la imagen (es necesario segmentarlo del fondo y del marco), ii) realizar una corrección geométrica para que el reloj se vea como un círculo, iii) encontrar las dos manecillas (para la hora y los minutos) iv) estime el ángulo de las manecillas; y v) calcule la hora indicando el número de la hora y los minutos. La entrada del programa es la imagen, la salida es la hora en el formato de dos números enteros. No es necesario determinar el número de segundos.
 
