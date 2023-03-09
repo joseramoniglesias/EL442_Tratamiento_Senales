@@ -13,7 +13,7 @@ El algoritmo debe funcionar correctamente en las imágenes proporcionadas en la 
 
 ## Fecha de Entrega
 
-Sábado 24 de septiembre de 2022
+Sábado 25 de marzo de 2023
 
 ## Informe (20%)
 
