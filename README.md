@@ -14,7 +14,7 @@ Curso de Tratamiento de Señales 2023-2
 * 1.2 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
 
 ### Clase 2 Sáb 12-Ago 2023:
-* 1.1 Introducción Procesamiento de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Introduccion.pdf)
+* 1.1 Introducción Procesamiento de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Introduccion_Completa.pdf)
 * 1.1 Ejemplo de Segmentación [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_Arroces.ipynb)
 
 ## Semana 2
