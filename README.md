@@ -16,7 +16,7 @@ Curso de Tratamiento de Señales 2023-2
 ### Clase 2 Sáb 12-Ago 2023:
 * 1.1 Introducción Procesamiento de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Introduccion_Completa.pdf)
 * 1.2 Ejemplo de Segmentación [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Python/TRAT01_Trabajo_con_Arroces.ipynb)
-* 1.3 Fundamentos de Procesamiento de Imágenes [Código Jupiter](https://raw.githubusercontent.com/joseramoniglesias/Tratamiento_Senales/main/clases/Cap01_Introducci%C3%B3n/Python/Fundamentos_Procesamiento_Imagenes.ipynb)
+* 1.3 Fundamentos de Procesamiento de Imágenes [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Python/Fundamentos_Procesamiento_Imagenes.ipynb)]
 
 ## Semana 2
 ### Clase 3 Vie 18-Ago 2023:
