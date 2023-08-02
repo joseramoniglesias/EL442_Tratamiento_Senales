@@ -29,8 +29,6 @@ Curso de Tratamiento de Señales 2023-2
 * 1.2 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=nbwPPcwknPU)
 * 1.2 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
 * 1.2-Funcionamiento del ojo humano (problemas en la vision)[Video](https://www.youtube.com/watch?v=AsKeu4wm3XI)
-* 1.2-Ejemplo de Percepcion 1 [Matlab](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_Perception1.m)
-* 1.2-Ejemplo de Percepcion 2 [Matlab](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_Perception2.m)
 * 1.2-Simulacion de ondas [Link](https://www.falstad.com/ripple/)
 * 1.4-Ejemplos en Matlab para el Toolbox Image Processing [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Matlab/TRAT01_EjemploBasicoMatlab.pdf)
 * 1.2-Video - Ilusiones del color (Charla TED) [YouTube](https://www.youtube.com/watch?v=mf5otGNbkuc)
@@ -42,8 +40,7 @@ Curso de Tratamiento de Señales 2023-2
 
 ### Clase 6 Sáb 26-Ago 2023:
 *  3.1 Transformacioines Geométricas [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_GeoTransformaciones.pdf)
-*  3.1 Ejemplo Louvre [Matlab](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_Louvre.m)
-*  3.1 Ejemplo de Transformaciones Geométricas [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_GeoTransformacion.ipynb)
+*  3.1 Ejemplo de Transformaciones Geométricas [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_GeoTransformacion_nuevo.ipynb)
 *  3.1 Interpolación Bilineal [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Interpolation_bilinear.pdf)
 *  3.1 Ejercicio de Interolación [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_EjercicioInterpolacion.pdf)
 *  3.1 Transformación Geométrica: Convertir Elipse-Circulo [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Conversion_Elipse_Circulo.pdf)
