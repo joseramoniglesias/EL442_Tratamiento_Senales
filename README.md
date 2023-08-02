@@ -283,5 +283,5 @@ Curso de Tratamiento de Señales 2023-2
 * Presentación Proyecto Final
 _______________________________________________________
 
-Actualizado el 18-07-2023
+Actualizado el 2-08-2023
 
