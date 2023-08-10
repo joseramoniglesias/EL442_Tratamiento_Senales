@@ -22,7 +22,7 @@ Curso de Tratamiento de Señales 2023-2
 ## Semana 2
 ### Clase 3 Vie 18-Ago 2023:
 * 1.1 Adquisición de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Adquisicion.pdf)
-* 1.3 Samppling (Muestreo espacial y de Tonos de gris) [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Python/TRAT01_Muestreo.ipynb)
+* 1.3 Muestreo (Muestreo espacial y de Tonos de gris) [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Python/TRAT01_Muestreo.ipynb)
 * 1.3 Segmentación Sencilla a Color [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Python/TRAT01_Segmentacion_Sencilla_a_Color.ipynb)
 
 ### Clase 4 Sáb 19-Ago 2023:
