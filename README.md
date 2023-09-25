@@ -99,7 +99,7 @@ Curso de Tratamiento de Señales 2023-2
 ## Semana 8
 ### Clase 15 Vier 29-Sep 2023:
 * 4.5 Implementación de Filtros usando Transformada de Fourier [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier2D_ImplementacionFiltros.pdf)
-* 4.5 Ejemplos Filtros 2D Usando Fourier [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier2D_Filtering.ipynb)
+* 4.5 Ejemplos Filtros 2D Usando Fourier [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Filtros_Fourier2D.ipynb)
 * 4.3-Convolucion en 2D discreta [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentationes/TRAT04_Fourier2D_ConvolucionDiscreta.pdf)
 * 4.5-Filtros en 2D en el dominio de frecuencia [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentationes/TRAT04_Fourier2D_Filtros.pdf)
 * Trabajo en Clase [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Eje04_Filtrado2D.ipynb)
