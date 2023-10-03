@@ -117,53 +117,35 @@ Curso de Tratamiento de Señales 2023-2
 * 4.6-JPEG DCT, Discrete Cosine Transform [Video](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
 
 ### Clase 18 Sab 7-Oct 2023:
-* 4.6-Transformada de Haar 2D [[Matlab]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_HaarBasis.m)
-* 4.6-Deteccion de caras usando Haar 2D [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentationes/TRAT04_TransformadaHaar_ViolaJones.pdf)
-* 4.6-Transformada de Gabor [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/mainr/clases/Cap04_Sistemas_Lineales/presentaciones/TRAT04_FiltrosGabor.pdf)
-* 4.6-Ejemplo de Transformada de Gabor [[Matlab]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_GaborBasis.m)
-* 4.5-Implementacion de la Transformada de Fourier (opcional) [[Apuntes]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentationes/TRAT04_ImplementacionTransformadas.pdf)
-* 4.6-Ejercicio Transformada Wavelet [[PDF]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentationes/TRAT04_GuiaWavelets.pdf)
-* 4.6-Transformada de Wavelet [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentationes/TRAT04_Wavelets.pdf)
-* 4.6-Wavelets - video a [[Video]](https://www.youtube.com/watch?v=QX1-xGVFqmw)
-* 4.6-Wavelets - video b [[Video]](https://www.youtube.com/watch?v=F7Lg-nFYooU)
-* 4.6-Wavelets - video c [[Video]](https://www.youtube.com/watch?v=ZnmvUCtUAEE)
-* 4.6-Wavelets - video d [[Video]](https://www.youtube.com/watch?v=ViZYXxuxUKA)
-* 4.6-Wavelets - video e [[Video]](https://www.youtube.com/watch?v=DGUuJweHamQ)
-* 4.6-Wavelets - video f [[Video]](https://www.youtube.com/watch?v=dSi9mLaa-WE&t=462s)
-* 4.6-Demo de Transformada de Wavelet en Python [[Python]](https://pywavelets.readthedocs.io/en/latest/)
+* 6.1-Motivacion [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Examples.pdf)
+* 6.1-Restauracion con degradacion por movimiento lineal uniforme [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Introduccion.pdf)
+* 6.1-Ejemplo de restauracion [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Matlab_Python/Cap06_RestauracionImagen.ipynb)
+* 6.1-Restauracion de Imagenes [Apuntes](https://github.com/joseramoniglesias/tTratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Restauracion_parte_1.pdf)
+* 6.1-Restauracion de Imagenes [[Paper]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauracion/presentationes/TRAT06_ImageRestorarion_Paper.pdf)
 
 ## Semana 10
 ### Clase 19 Vie 13-Oct 2023:
-* 6.1 Motivación [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Examples.pdf)
-* 6.1-Restauracion con degradacion por movimiento lineal uniforme [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Introduccion.pdf)
-* 6.1-Ejemplo de restauracion [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Matlab_Python/Cap06_ImageRestoration.ipynb)
-* 6.1-Restauracion de Imagenes [[Paper]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauracion/presentationes/TRAT06_ImageRestorarion_Paper.pdf)
-* 6.1-Ejemplo 'blur' [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauracion/presentationes/TRAT06_EjemploBlur.pdf)
-* 6.1-Ejemplo de restauracion en Python [[Colab]](https://colab.research.google.com/drive/1GATlPu6ev4gCQ_YCVBumIxbxWFHZKI2o?usp=sharing)
-* 6.1-Paper-1 de Restauracion de Imagenes [[Apuntes]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauracion/presentationes/TRAT06_ImageRestoration.pdf)
-* 6.1-Paper-1 de Restauracion de Imagenes [Apuntes](https://github.com/joseramoniglesias/tTratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Restauracion_parte_1.pdf)
+* 6.1-Restauracion con degradacion 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/TRAT06_Blur2D.pdf)
+* 6.1-Ejercicio [Quiz]
 
 ### Clase 20 Sab. 14-Oct-2023:
 * 6.1-Ejercicio en clase (Cuestionario)
+* 6.1-Solucion al cuestionario de la clase anterior
 * 6.1-Introduccion a la Restauracion de Imagenes [[Paper]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauracion/papers/TRAT06_CLEI_paper.pdf)
 
 ## Semana 11
 ### Clase 21 Vie. 20-Oct-2023:
-* 6.1-Solucion al cuestionario de la clase anterior
-* 6.1-Restauracion con degradacion 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/TRAT06_Blur2D.pdf)
-
-### Clase 22 Sab. 21-Oct-2023:
 * 6.1-Deconvolucion [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/TRAT06_Deconvolution.pdf)
 * 6.1-Estimacion de PSF [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/TRAT06_PSF.pdf)
 * 6.4-Restauracion de Imagenes 2da parte [[Apuntes]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauracion/presentationes/TRAT06_Restauracion_parte_2.pdf)
 * 6.4-Filtro Wiener [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Matlab_Python/TRAT06_WienerFilter.ipynb)
 
-## Semana 12
-### Clase 23 Vie. 27. Oct-2023:
+### Clase 22 Sab. 21-Oct-2023:
 * 7.1-Morfologia [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT07_Morfologia.pdf)
 * 7.1-Ejemplos de morfologia [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Mtalb_Python/TRAT07_OperadoresMorfologicos.ipynb)
 
-### Clase 24 Sab. 28-Oct-2023:
+## Semana 12
+### Clase 23 Vie. 27. Oct-2023:
 * 7.2-TopHat [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT07_TopHat.pdf)
 * 7.2-Ejemplo Top Hat [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Matalb_Python/TRAT07_TopHat.ipynb)
 * 7.2-Mediana [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT07_Mediana.pdf)
@@ -172,11 +154,11 @@ Curso de Tratamiento de Señales 2023-2
 * 8.3-Region Growing [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT08_RegionGrowing.pdf)
 * 8.3-Ejemplo Region Growing [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Mtalb_Python/TRAT07_RegionGrowing.ipynb)
 
-## Semana 13
-### Clase 25 Vie. 3-Nov-2023:
+### Clase 24 Sab. 28-Oct-2023:
 * 8.1-Trabajo en Grupo [[Ejercicio]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morphologia/ejercicio)
 
-### Clase 26 Sab. 4-Nov-2023:
+## Semana 13
+### Clase 25 Vie. 3-Nov-2023:
 * 8.2-Metodo de Otsu [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_Otsu.pdf)
 * 8.2-Metodo de MSER [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_MSER.pdf)
 * 8.1-Deteccion de bordes (PARTE 1) [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_Bordes_1.pdf)
@@ -187,22 +169,21 @@ Curso de Tratamiento de Señales 2023-2
 * 8.1-Transformada de Hough [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_Hough.pdf)
 * 8.1-Ejemplo de Transformada de Hough [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_Hough_Transform.ipynb)
 
-## Semana 14
-### Clase 27 Vie. 10-Nov-2023
+### Clase 26 Sab. 4-Nov-2023:
 * 8.3-Segmentacion usando Watershed [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_Watershed.pdf)
 * 8.3-Ejemplo Watershed [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_Watershed.ipynb)
 * 8.1-Segmentacion con filtros tipo template [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_SegmentacionMascaras.pdf)
 * 8.5-Segmentacion de movimiento [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_SegMovimiento.pdf)
 * 8.5-Ejemplo de segmentacion de movimiento [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_SegVideo.ipynb)
 
-### Clase 28 Sab. 11-Nov-20232:
+## Semana 14
+### Clase 27 Vie. 10-Nov-2023
 * 2.2-Procesamiento de imagenes a color (introduccion) [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_Introduccion.pdf)
 * 2.2-Segmentacion de imagenes a color [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_Segmentacion.pdf)
 * 2.1-Segmentacion a color con k-means [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Matlab/TRAT02_ColorSegmentation_KMeans.ipynb)
 * 2.1-Paper de segmentacion a color [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorSegmentation_Paper.pdf)
 
-## Semana 15
-### Clase 29 Vie. 17-Nov-2023:
+### Clase 28 Sab. 11-Nov-20232:
 * 2.2-Espacios de color [PPT](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorSpaces.pdf)
 * 2.1-Ejemplo de mejoramiento de imagen a color oscura [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Matlab/TRAT02_ColorEnhacement.ipynb)
 * 2.2-Preguntas Frecuentes sobre el Color [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorFAQ.pdf)
@@ -214,8 +195,12 @@ Curso de Tratamiento de Señales 2023-2
 * 2.3-Herramientas para la conversiones de espacios de color [Link](http://brucelindbloom.com/)
 * 2.3-Filtros artisticos [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ArtisticFilters.pdf)
 
-### Clase 30 Sab. 18-Nov-2023:
+## Semana 15
+### Clase 29 Vie. 17-Nov-2023:
 8.6-Avances Presentaciones de Proyecto Final
+
+### Clase 30 Sab. 18-Nov-2023:
+* Presentación Proyecto Final
 
 ## Semana 16
 ### Clase 31 Vie. 24-Nov-2023:
@@ -225,5 +210,5 @@ Curso de Tratamiento de Señales 2023-2
 * Presentación Proyecto Final
 _______________________________________________________
 
-Actualizado el 2-08-2023
+Actualizado el 3-10-2023
 
