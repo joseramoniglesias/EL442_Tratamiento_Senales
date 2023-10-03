@@ -119,7 +119,8 @@ Curso de Tratamiento de Señales 2023-2
 ### Clase 18 Sab 7-Oct 2023:
 * 6.1-Motivacion [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Examples.pdf)
 * 6.1-Restauracion con degradacion por movimiento lineal uniforme [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Introduccion.pdf)
-* 6.1-Ejemplo de restauracion [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Matlab_Python/Cap06_RestauracionImagen.ipynb)
+* 6.1-Ejemplo de restauracion [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Matlab_Python/TRAT06_RestauracionImagen.ipynb)
+* 6.1-Ejemplo de restauracion 2 [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Matlab_Python/TRAT06_Image_restoration_Noise_Segmentation_and_Contours.ipynb)
 * 6.1-Restauracion de Imagenes [Apuntes](https://github.com/joseramoniglesias/tTratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Restauracion_parte_1.pdf)
 * 6.1-Restauracion de Imagenes [[Paper]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauracion/presentationes/TRAT06_ImageRestorarion_Paper.pdf)
 
