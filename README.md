@@ -114,6 +114,7 @@ Curso de Tratamiento de Señales 2023-2
 * 5.2-Filtro Homomorfico (opcional) [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento_Frecuencia/presentationes/TRAT05_FiltroHomomorfico.pdf)
 * 5.2 Ejemplo de Filtro Homomórfico [jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab/TRAT05_FiltroHomomorfico.ipynb)
 * 4.6 Transformada Discreta de Coseno (DCT) [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_TransformadaDCT.pdf)
+* 4.6 Implementación de la Transformada DCT en Compresion JPEG [Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab/TRAT05_Implementando-Compresion_Datos_JPEG_en_Python.ipynb)
 * 4.6-JPEG DCT, Discrete Cosine Transform [Video](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
 
 ### Clase 18 Sab 7-Oct 2023:
