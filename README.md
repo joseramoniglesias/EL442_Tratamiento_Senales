@@ -5,7 +5,7 @@ Curso de Tratamiento de Señales 2023-2
 ## Planificación del Curso por Días
 
 ## Semana 1
-### Clase 01 Vi 11-Ago 2023:
+### Clase 01 Vi 9-feb 2024:
 * 0.1 Programa del Curso [XLS](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Plan_Asignatura/Formato%20Plan%20de%20Asignatura%20v3_EL442_Tratamiento_Senales.xlsx)
 * 0.1 Desarrollo del curso [XLS](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Plan_Asignatura/Formato%20Plan%20de%20desarrollo%20de%20asignatura%20v2_JRIglesias_EL442.xlsx)
 * 0.1 Presentación del Curso [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Generales/Programa/TRAT00_Presentacion.pdf)
@@ -15,18 +15,18 @@ Curso de Tratamiento de Señales 2023-2
 * 1.2 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
 * 1.2 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
 
-### Clase 2 Sáb 12-Ago 2023:
+### Clase 2 Sáb 10-Ago 2024:
 * 1.1 Introducción Procesamiento de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Introduccion_Completa.pdf)
 * 1.2 Ejemplo de Segmentación [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Python/TRAT01_Trabajo_con_Arroces.ipynb)
 * 1.3 Fundamentos de Procesamiento de Imágenes [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Python/Fundamentos_Procesamiento_Imagenes.ipynb)]
 
 ## Semana 2
-### Clase 3 Vie 18-Ago 2023:
+### Clase 3 Vie 16-Feb 2024:
 * 1.1 Adquisición de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Adquisicion.pdf)
 * 1.3 Muestreo (Muestreo espacial y de Tonos de gris) [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Python/TRAT01_Muestreo.ipynb)
 * 1.3 Segmentación Sencilla a Color [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Python/TRAT01_Segmentacion_Sencilla_a_Color.ipynb)
 
-### Clase 4 Sáb 19-Ago 2023:
+### Clase 4 Sáb 17-Feb 2024:
 * 1.2 Luz, espectro, percepción [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Luz-Ondas-Ojo.pdf)
 * 1.2 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=nbwPPcwknPU)
 * 1.2 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
@@ -48,7 +48,8 @@ Curso de Tratamiento de Señales 2023-2
 
 ## Semana 4
 ### Clase 7 Vie 1-Sep 2023:
-* 3.1 Histogramas[PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Histogramas.pdf)
+* 3.1 Histogramas[PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Histogramas.pdf
+)
 * 3.1 Ecualización de Histogramas [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_HistogramaEcualizacion.pdf)
 * 3.1 Ejemplo de Equalización de Histogramas [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_Equalization_nuevo.ipynb)
 * 3.1 Ejemplo de Histogramas [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_histograma_Imagenes.ipynb)
