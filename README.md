@@ -10,55 +10,49 @@ Curso de Tratamiento de Señales 2023-2
 * 0.1 Desarrollo del curso [XLS](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Plan_Asignatura/Formato%20Plan%20de%20desarrollo%20de%20asignatura%20v2_JRIglesias_EL442.xlsx)
 * 0.1 Presentación del Curso [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Generales/Programa/TRAT00_Presentacion.pdf)
 * 1.1 Pixel [PPT]([https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Pixels.pdf)
-* 1.2 El código Python se encuentra en está carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap01_Introducci%C3%B3n/Python)
-* 1.2 Descargar Anaconda [Internet](https://www.anaconda.com/)
-* 1.2 Licencia gratuita [Internet](https://www.jetbrains.com/es-es/community/education/#students/)
-* 1.2 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
-* 1.2 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
+* 1.1 El código Python se encuentra en está carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap01_Introducci%C3%B3n/Python)
+* 1.1 Descargar Anaconda [Internet](https://www.anaconda.com/)
+* 1.1 Licencia gratuita [Internet](https://www.jetbrains.com/es-es/community/education/#students/)
+* 1.1 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
+* 1.1 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
 
 ### Clase 2 Sáb 10-Ago 2024:
-* 1.1 Introducción Procesamiento de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Introduccion_Completa.pdf)
-* 1.2 Ejemplo de Segmentación [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Python/TRAT01_Trabajo_con_Arroces.ipynb)
-* 1.3 Fundamentos de Procesamiento de Imágenes [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Python/Fundamentos_Procesamiento_Imagenes.ipynb)]
+* 1.2 Introducción Procesamiento de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Introduccion.pdf)
+* 1.2 El código Python se encuentra en está carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap01_Introducci%C3%B3n/Python)
 
 ## Semana 2
 ### Clase 3 Vie 16-Feb 2024:
-* 1.1 Adquisición de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Adquisicion.pdf)
-* 1.3 Muestreo (Muestreo espacial y de Tonos de gris) [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Python/TRAT01_Muestreo.ipynb)
-* 1.3 Segmentación Sencilla a Color [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Python/TRAT01_Segmentacion_Sencilla_a_Color.ipynb)
+* 1.3 Adquisición de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Adquisicion.pdf)
+* 1.3 El código Python se encuentra en está carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap01_Introducci%C3%B3n/Python)
 
 ### Clase 4 Sáb 17-Feb 2024:
-* 1.2 Luz, espectro, percepción [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_Luz-Ondas-Ojo.pdf)
-* 1.2 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=nbwPPcwknPU)
-* 1.2 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
-* 1.2-Funcionamiento del ojo humano (problemas en la vision)[Video](https://www.youtube.com/watch?v=AsKeu4wm3XI)
-* 1.2-Simulacion de ondas [Link](https://www.falstad.com/ripple/)
-* 1.2-Video - Ilusiones del color (Charla TED) [YouTube](https://www.youtube.com/watch?v=mf5otGNbkuc)
+* 1.4 Luz, espectro, percepción [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Luz-Ondas-Ojo.pdf)
+* 1.4 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=nbwPPcwknPU)
+* 1.4 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
+* 1.4-Funcionamiento del ojo humano (problemas en la vision)[Video](https://www.youtube.com/watch?v=AsKeu4wm3XI)
+* 1.4-Simulacion de ondas [Link](https://www.falstad.com/ripple/)
+* 1.4-Video - Ilusiones del color (Charla TED) [YouTube](https://www.youtube.com/watch?v=mf5otGNbkuc)
 
 ## Semana 3
-### Clase 5 Vie 25-Ago 2023:
-* 1.3 Segmentación de Frutos rojos [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/TRAT01_SegmentacionFrutosRojos.pdf)
-* 1.3 Trabajo en Clases Ejer_02 [Código](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Python/TRAT01_Eje01_FrutosRojos.ipynb)
+### Clase 5 Vie 23-Feb 2024:
+* 1.5 Ejercicios de Segmentación [Carpeta]
+* 1.3 Trabajo en Clases 
 
-### Clase 6 Sáb 26-Ago 2023:
-*  3.1 Transformacioines Geométricas [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_GeoTransformaciones.pdf)
-*  3.1 Ejemplo de Transformaciones Geométricas [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_GeoTransformacion_nuevo.ipynb)
-*  3.1 Interpolación Bilineal [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Interpolation_bilinear.pdf)
-*  3.1 Ejercicio de Interolación [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_EjercicioInterpolacion.pdf)
-*  3.1 Transformación Geométrica: Convertir Elipse-Circulo [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Conversion_Elipse_Circulo.pdf)
-
+### Clase 6 Sáb 24-Feb 2024:
+*  3.1 Transformacioines Geométricas [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Transformaciones_Geometricas.pdf)
+*  3.2 Lectura Obligatoria [Paper] (https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_InterpolationTheory.pdf)
+*  3.3 Ejemplo de Transformaciones Geométricas [Carpeta] (https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap03_Mejoramiento_Espacial/Python)
+  
 ## Semana 4
-### Clase 7 Vie 1-Sep 2023:
-* 3.1 Histogramas[PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Histogramas.pdf
-)
-* 3.1 Ecualización de Histogramas [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_HistogramaEcualizacion.pdf)
-* 3.1 Ejemplo de Equalización de Histogramas [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_Equalization_nuevo.ipynb)
-* 3.1 Ejemplo de Histogramas [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_histograma_Imagenes.ipynb)
-* 3.1 Operaciones Aritméticas [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Aritmetica.pdf)
-* 3.1 Operaciones con Máscaras [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Mascaras_Diap.pdf)
+### Clase 7 Vie 1-Mar 2024:
+* 3.1 Histogramas[PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Histogramas.pdf)
+* 3.1 Ecualización de Histogramas [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_EcualizacionHistograma.pdf)
+* 3.1 Códigos de Python en esta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap03_Mejoramiento_Espacial/Python)
+* 3.1 Operaciones Aritméticas [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Aritmetica.pdf)
+* 3.1 Operaciones con Máscaras [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Mascaras.pdf)
 
-### Clase 8 Sáb 2-Sep 2023:
-* 3.3 Trabajo en Clases Ejer_03 [Codigo](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_Eje02_Tokio.ipynb)
+### Clase 8 Sáb 2-Mar 2024:
+* 3.3 Trabajo en Clases Ejer_03 [Codigo]
 
 ## Semana 5
 ### Clase 9 Vié  8-Sep 2023:
