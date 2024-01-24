@@ -41,7 +41,7 @@ Curso de Tratamiento de Señales 2023-2
 ### Clase 6 Sáb 24-Feb 2024:
 *  3.1 Transformacioines Geométricas [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Transformaciones_Geometricas.pdf)
 *  3.2 Lectura Obligatoria [Paper](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_InterpolationTheory.pdf)
-*  3.3 Ejemplo de Transformaciones Geométricas [Carpeta]([https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap03_Mejoramiento_Espacial/Python)
+*  3.3 Ejemplo de Transformaciones Geométricas [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap03_Mejoramiento_Espacial/Python)
   
 ## Semana 4
 ### Clase 7 Vie 1-Mar 2024:
