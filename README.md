@@ -5,7 +5,7 @@ Curso de Tratamiento de Señales 2023-2
 ## Planificación del Curso por Días
 
 ## Semana 1
-### Clase 01 Vi 9-feb 2024:
+### Clase 01 Vi 16-feb 2024:
 * 0.1 Programa del Curso [XLS](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Plan_Asignatura/Formato%20Plan%20de%20Asignatura%20v3_EL442_Tratamiento_Senales.xlsx)
 * 0.1 Desarrollo del curso [XLS](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Plan_Asignatura/Formato%20Plan%20de%20desarrollo%20de%20asignatura%20v2_JRIglesias_EL442.xlsx)
 * 0.1 Presentación del Curso [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Generales/Programa/TRAT00_Presentacion.pdf)
@@ -16,16 +16,16 @@ Curso de Tratamiento de Señales 2023-2
 * 1.1 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
 * 1.1 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
 
-### Clase 2 Sáb 10-Ago 2024:
+### Clase 2 Sáb 17-feb 2024:
 * 1.2 Introducción Procesamiento de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Introduccion.pdf)
 * 1.2 El código Python se encuentra en está carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap01_Introducci%C3%B3n/Python)
 
 ## Semana 2
-### Clase 3 Vie 16-Feb 2024:
+### Clase 3 Vie 23-Feb 2024:
 * 1.3 Adquisición de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Adquisicion.pdf)
 * 1.3 El código Python se encuentra en está carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap01_Introducci%C3%B3n/Python)
 
-### Clase 4 Sáb 17-Feb 2024:
+### Clase 4 Sáb 24-Feb 2024:
 * 1.4 Luz, espectro, percepción [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Luz-Ondas-Ojo.pdf)
 * 1.4 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=nbwPPcwknPU)
 * 1.4 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
@@ -34,69 +34,61 @@ Curso de Tratamiento de Señales 2023-2
 * 1.4-Video - Ilusiones del color (Charla TED) [YouTube](https://www.youtube.com/watch?v=mf5otGNbkuc)
 
 ## Semana 3
-### Clase 5 Vie 23-Feb 2024:
+### Clase 5 Vie 1-Mar 2024:
 * 1.5 Ejercicios de Segmentación [Carpeta]
 * 1.3 Trabajo en Clases 
 
-### Clase 6 Sáb 24-Feb 2024:
+### Clase 6 Sáb 2-Mar 2024:
 *  3.1 Transformacioines Geométricas [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Transformaciones_Geometricas.pdf)
 *  3.2 Lectura Obligatoria [Paper](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_InterpolationTheory.pdf)
 *  3.3 Ejemplo de Transformaciones Geométricas [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap03_Mejoramiento_Espacial/Python)
   
 ## Semana 4
-### Clase 7 Vie 1-Mar 2024:
+### Clase 7 Vie 8-Mar 2024:
 * 3.1 Histogramas[PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Histogramas.pdf)
 * 3.1 Ecualización de Histogramas [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_EcualizacionHistograma.pdf)
 * 3.1 Códigos de Python en esta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap03_Mejoramiento_Espacial/Python)
 * 3.1 Operaciones Aritméticas [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Aritmetica.pdf)
 * 3.1 Operaciones con Máscaras [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Mascaras.pdf)
 
-### Clase 8 Sáb 2-Mar 2024:
+### Clase 8 Sáb 9-Mar 2024:
 * 3.3 Trabajo en Clases Ejer_03 [Codigo]
 
 ## Semana 5
-### Clase 9 Vié  8-Sep 2023:
+### Clase 9 Vié  15-Mar 2024:
 * 3.3 Animación con Máscaras [Video](https://twitter.com/3blue1brown/status/1303489896519139328?s=20)
-* 3.3 Ejemplos con Máscaras [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Matlab_Python/TRAT03_Filtros_Mascaras.ipynb)
-* 3.3 Apuntes para entender Filtros con Máscaras [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/TRAT03_Mascaras.pdf)
-
-### Clase 10 Sab 9-Sep 2023:
-* 4.1 Respuesta al Impulso [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_FuncionImpulso.pdf)
-* 4.2 Convolución en 1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Convolucion1D.pdf)
-* 4.2 Ejemplo Convolución 1D [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Convolucion1D.ipynb)
-* 4.2 Convolución en 1D(Ejercicios Opcional) [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Ejercicios_Convolucion1D.pdf)
+* 3.3 Códigos de Python en ésta carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap03_Mejoramiento_Espacial/Python)
+  
+### Clase 10 Sab 16-Mar 2024:
+* 4.1 Respuesta al Impulso [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_FuncionImpulso.pdf)
+* 4.2 Convolución en 1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Convolucion1D.pdf)
+* 4.2 Códigos de Python en ésta carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap04_Sistemas_Lineales/Python)
 
 ## Semana 6
-### Clase 11 Vie 15-Sep 2023:
-* 4.4 Transformada de Fourier 1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier1D.pdf)
-* 4.4 Ejemplo Transformada de Fourier(1D) con Audio [Código jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Fourier1D.rar)
-* 4.4 Apuntes para Transformada de Fourier 1D [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_TransformadaFourier1D.pdf)
+### Clase 11 Vie 22-Mar 2024:
+* 4.4 Transformada de Fourier 1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Fourier1D.pdf)
+* 4.4 Códigos de Python en ésta carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap04_Sistemas_Lineales/Python)
 
-### Clase 12 Sab 16-Sep-2023:
-* 4.2 Trabajo en Clases Ejer_05 Código)
+### Clase 12 Sab 23-Mar-2024:
+* 4.2 Trabajo en Clases Código
 
 ## Semana 7
 ### Clase 13 Vie 22-Sep 2023:
-* 4.4 Teoría de la Transformada de Fourier 1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier1D_Teoria_Diap.pdf)
-* 4.4 Muestreo de Señales1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Muestreo1D_DFT.pdf)
-* 4.4-Apuntes - Fourier 1D propiedades [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier1D_Propiedades_Ejercicios.pdf)
-* 4.4 Transformada Discreta de Fourier (DFT) [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentaciones/TRAT04_Fourier1D_DFT.pdf)
-* 4.4 Convolucion en 1D usando Transformada de Fourier [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentaciones/TRAT04_Fourier1D_ConvolucionDiscreta.pdf)
+* 4.4 Teoría de la Transformada de Fourier 1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Fourier1D_Teoria.pdf)
+* 4.4 Muestreo de Señales1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Muestreo1D_DFT.pdf)
+* 4.4 Convolucion en 1D usando Transformada de Fourier [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentaciones/EL442_04_Fourier1D_ConvolucionDiscreta.pdf)
 
 ### Clase 14 Sab 23-Sep 2023:
-* 4.5 Transformada de Fourier 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier_2D.pdf)
-* 4.5 Función Impulso en 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Impulso_2D.pdf)
-* 4.5 Muestreo en 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Muestreo_2D.pdf)
-* 4.5 Fourier 2D Teoría [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier1D_Teoria_Diap.pdf)
-* 4.5-Teorema del Muestreo 2D [[PPT]](https://github.com/joseramoniglesias/trataqmiento/main/clases/Cap04_Sistemas_Lineales/presentations/TRAT04_Teorema_Muestreo_2D.pdf)
-* 4.3-Convolucion en 2D [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/main/clases/Cap04_Sistemas_Lineales/presentations/TRAT04_Fourier2D_Convolucion.PDF)
-* 4.5 Implementacion de la Transformada de Fourier (opcional) [Apuntes](https://github.com/joseramoniglesias/Tratamiento_Senales/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_ImplementacionTransformada.m)
+* 4.5 Transformada de Fourier 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Fourier_2D.pdf)
+* 4.5 Función Impulso en 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Impulso_2D.pdf)
+* 4.5 Muestreo en 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Muestreo_2D.pdf)
+* 4.3-Convolucion en 2D [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/main/clases/Cap04_Sistemas_Lineales/presentations/EL442_04_Fourier2D_Convolucion.PDF)
 
 ## Semana 8
 ### Clase 15 Vier 29-Sep 2023:
-* 4.5 Implementación de Filtros usando Transformada de Fourier [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_Fourier2D_ImplementacionFiltros.pdf)
-* 4.5 Ejemplos Filtros 2D Usando Fourier [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Filtros_Fourier2D.ipynb)
-* 4.3-Convolucion en 2D discreta [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentationes/TRAT04_Fourier2D_ConvolucionDiscreta.pdf)
+* 4.5 Implementación de Filtros usando Transformada de Fourier [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Fourier2D_ImplementacionFiltros.pdf)
+* 4.5 Códigos de Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap04_Sistemas_Lineales/Python)
+
 * 4.5-Filtros en 2D en el dominio de frecuencia [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentationes/TRAT04_Fourier2D_Filtros.pdf)
 * Trabajo en Clase [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Eje04_Filtrado2D.ipynb)
 * 4.5-Uso de FFT-shift en la implementacion de Filtros 2D [[Apuntes]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentationes/TRAT04_FFTSHIFT_Filtros2D.pdf)
@@ -208,5 +200,5 @@ Curso de Tratamiento de Señales 2023-2
 * Presentación Proyecto Final
 _______________________________________________________
 
-Actualizado el 3-10-2023
+Actualizado el 29-1-2024
 
