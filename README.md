@@ -73,93 +73,84 @@ Curso de Tratamiento de Señales 2023-2
 * 4.2 Trabajo en Clases Código
 
 ## Semana 7
-### Clase 13 Vie 22-Sep 2023:
+### Clase 13 Vie 5-Abr 2024:
 * 4.4 Teoría de la Transformada de Fourier 1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Fourier1D_Teoria.pdf)
 * 4.4 Muestreo de Señales1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Muestreo1D_DFT.pdf)
 * 4.4 Convolucion en 1D usando Transformada de Fourier [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentaciones/EL442_04_Fourier1D_ConvolucionDiscreta.pdf)
 
-### Clase 14 Sab 23-Sep 2023:
+### Clase 14 Sab 6-Abr 2024:
 * 4.5 Transformada de Fourier 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Fourier_2D.pdf)
 * 4.5 Función Impulso en 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Impulso_2D.pdf)
 * 4.5 Muestreo en 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Muestreo_2D.pdf)
 * 4.3-Convolucion en 2D [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/main/clases/Cap04_Sistemas_Lineales/presentations/EL442_04_Fourier2D_Convolucion.PDF)
 
 ## Semana 8
-### Clase 15 Vier 29-Sep 2023:
+### Clase 15 Vier 12-Abr 2024:
 * 4.5 Implementación de Filtros usando Transformada de Fourier [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Fourier2D_ImplementacionFiltros.pdf)
 * 4.5 Códigos de Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap04_Sistemas_Lineales/Python)
+* 4.5-Filtros en 2D en el dominio de frecuencia [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentationes/EL442_04_Fourier2D_Filtros.pdf)
+* Trabajo en Clase 
 
-* 4.5-Filtros en 2D en el dominio de frecuencia [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentationes/TRAT04_Fourier2D_Filtros.pdf)
-* Trabajo en Clase [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT04_Eje04_Filtrado2D.ipynb)
-* 4.5-Uso de FFT-shift en la implementacion de Filtros 2D [[Apuntes]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentationes/TRAT04_FFTSHIFT_Filtros2D.pdf)
-
-### Clase 16 Sab 30-Sep 2023:
-* Tareas en clase Ejer_06 (Código)
+### Clase 16 Sab 13-Abr 2024:
+* Tareas en clase Ejercicio
 
 ## Semana 9
-### Clase 17 Vie 6-Oct 2023:
-* 4.4 Efecto Aliasing al girar una llanta [Youtube](https://www.youtube.com/watch?v=VNftf5qLpiA)
-* 5.2-Filtro Homomorfico (opcional) [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento_Frecuencia/presentationes/TRAT05_FiltroHomomorfico.pdf)
-* 5.2 Ejemplo de Filtro Homomórfico [jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT05_FiltroHomomorfico.ipynb)
-* 4.6 Transformada Discreta de Coseno (DCT) [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/TRAT04_TransformadaDCT.pdf)
-* 4.6 Implementación de la Transformada DCT en Compresion JPEG [Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Matlab_y_Python/TRAT05_Implementando-Compresion_Datos_JPEG_en_Python.ipynb)
-* 4.6-JPEG DCT, Discrete Cosine Transform [Video](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
+### Clase 17 Vie 19-Abr 2024:
+* 5.1 Efecto Aliasing al girar una llanta [Youtube](https://www.youtube.com/watch?v=VNftf5qLpiA)
+* 5.2-Filtro Homomorfico (opcional) [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento_Frecuencia/presentationes/EL442_05_FiltroHomomorfico.pdf)
+* 5.3 Transformada Discreta de Coseno (DCT) [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_05_TransformadaDCT.pdf)
+* 5.4 Códigos de Python en ésta Carpeta [Carpeta[]()](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap05_Mejoramiento/Python)
+* 5.5-JPEG DCT, Discrete Cosine Transform [Video](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
+* 5.6 Filtros Gabor [ppt](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_05_FiltrosGabor.pdf)
+* 5.7 Transformada Haar [PPTX](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_05_TransformadaHaar_ViolaJones.pdf)
+* 5.8 Transformada Wavelet [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_05_Wavelets.pdf)
 
-### Clase 18 Sab 7-Oct 2023:
-* 6.1-Motivacion [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Examples.pdf)
-* 6.1-Restauracion con degradacion por movimiento lineal uniforme [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Introduccion.pdf)
-* 6.1-Ejemplo de restauracion [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Matlab_Python/TRAT06_RestauracionImagen.ipynb)
-* 6.1-Ejemplo de restauracion 2 [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Matlab_Python/TRAT06_Image_restoration_Noise_Segmentation_and_Contours.ipynb)
-* 6.1-Restauracion de Imagenes [Apuntes](https://github.com/joseramoniglesias/tTratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/TRAT06_Restauracion_parte_1.pdf)
-* 6.1-Restauracion de Imagenes [[Paper]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauracion/presentationes/TRAT06_ImageRestorarion_Paper.pdf)
+### Clase 18 Sab 20-abr 2024:
+* 6.1-Introducción [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_06_Examples.pdf)
+* 6.2-Restauracion con degradacion por movimiento lineal uniforme [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_06_Introduccion_Restauracion.pdf)
+* 6.3- C+odigos de Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap05_Mejoramiento/Python)
+* 6.1-Restauracion de Imagenes [[Paper]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauracion/presentationes/EL442_06_ImageRestorarion_Paper.pdf)
 
 ## Semana 10
-### Clase 19 Vie 13-Oct 2023:
-* 6.1-Restauracion con degradacion 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/TRAT06_Blur2D.pdf)
+### Clase 19 Vie 26-Abr 2024:
+* 6.1-Restauracion con degradacion 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/EL442_06_Blur2D.pdf)
 * 6.1-Ejercicio [Quiz]
 
-### Clase 20 Sab. 14-Oct-2023:
+### Clase 20 Sab. 27-Abr-2024:
 * 6.1-Ejercicio en clase (Cuestionario)
 * 6.1-Solucion al cuestionario de la clase anterior
-* 6.1-Introduccion a la Restauracion de Imagenes [[Paper]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauracion/papers/TRAT06_CLEI_paper.pdf)
 
 ## Semana 11
-### Clase 21 Vie. 20-Oct-2023:
-* 6.1-Deconvolucion [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/TRAT06_Deconvolution.pdf)
-* 6.1-Estimacion de PSF [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/TRAT06_PSF.pdf)
-* 6.4-Restauracion de Imagenes 2da parte [[Apuntes]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauracion/presentationes/TRAT06_Restauracion_parte_2.pdf)
-* 6.4-Filtro Wiener [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Matlab_Python/TRAT06_WienerFilter.ipynb)
+### Clase 21 Vie. 10-May-2024:
+* 6.1-Deconvolucion [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/EL442_06_Deconvolution.pdf)
+* 6.2-Estimacion de PSF [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/EL442_06_PSF.pdf)
+* 6.4- Códigos Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Python)
 
-### Clase 22 Sab. 21-Oct-2023:
-* 7.1-Morfologia [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT07_Morfologia.pdf)
-* 7.1-Ejemplos de morfologia [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Mtalb_Python/TRAT07_OperadoresMorfologicos.ipynb)
+### Clase 22 Sab. 11-May-2024:
+* 7.1-Morfologia [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/EL442_07_Morfologia.pdf)
+* 7.2-Códigos Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap07_Morfologia/Python)
 
 ## Semana 12
-### Clase 23 Vie. 27. Oct-2023:
-* 7.2-TopHat [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT07_TopHat.pdf)
-* 7.2-Ejemplo Top Hat [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Matalb_Python/TRAT07_TopHat.ipynb)
-* 7.2-Mediana [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT07_Mediana.pdf)
-* 7.2-Ejemplo Mediana [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Mtalb_Python/TRAT07_Median.ipynb)
-* 8.1-Segmentacion [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT08_Segmentation.pdf)
-* 8.3-Region Growing [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/TRAT08_RegionGrowing.pdf)
-* 8.3-Ejemplo Region Growing [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Mtalb_Python/TRAT07_RegionGrowing.ipynb)
+### Clase 23 Vie. 17. May-2024:
+* 7.3-TopHat [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_07_TopHat.pdf)
+* 7.4-Mediana [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_07_Mediana.pdf)
+* 8.1-Segmentacion [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_08_Segmentation.pdf)
+* 8.2-Region Growing [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_08_RegionGrowing.pdf)
+* 8.3- Códigos Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap08_Segmentaci%C3%B3n/Python)
 
-### Clase 24 Sab. 28-Oct-2023:
-* 8.1-Trabajo en Grupo [[Ejercicio]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morphologia/ejercicio)
-
+### Clase 24 Sab. 18-May-2024:
+* 8.4-Trabajo en Grupo
+  
 ## Semana 13
-### Clase 25 Vie. 3-Nov-2023:
-* 8.2-Metodo de Otsu [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_Otsu.pdf)
-* 8.2-Metodo de MSER [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_MSER.pdf)
-* 8.1-Deteccion de bordes (PARTE 1) [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_Bordes_1.pdf)
-* 8.2-Ejemplo de deteccion de regiones (OTSU, MSER, etc) [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_RegionSegmentation.ipynb)
-* 8.2-Ejemplo de deteccion de bordes [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_EdgeDetection.ipynb)
-* 8.1-Deteccion de bordes (PARTE 2) [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_Bordes_2.pdf)
-* 8.2-Ejemplo de deteccion de bordes [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_EdgeDetection.ipynb)
-* 8.1-Transformada de Hough [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_Hough.pdf)
-* 8.1-Ejemplo de Transformada de Hough [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_Hough_Transform.ipynb)
+### Clase 25 Vie. 24-May-2024:
+* 8.5-Metodo de Otsu [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Otsu.pdf)
+* 8.6-Metodo de MSER [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_MSER.pdf)
+* 8.7-Deteccion de bordes (PARTE 1) [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Bordes_1.pdf)
+* 8.8-Deteccion de bordes (PARTE 2) [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Bordes_2.pdf)
+* 8.9- Códigos Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap08_Segmentaci%C3%B3n/Python)
+* 8.10-Transformada de Hough [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Hough.pdf)
 
-### Clase 26 Sab. 4-Nov-2023:
+### Clase 26 Sab. 25-May-2024:
 * 8.3-Segmentacion usando Watershed [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_Watershed.pdf)
 * 8.3-Ejemplo Watershed [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_Watershed.ipynb)
 * 8.1-Segmentacion con filtros tipo template [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_SegmentacionMascaras.pdf)
