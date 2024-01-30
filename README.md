@@ -151,45 +151,41 @@ Curso de Tratamiento de Señales 2023-2
 * 8.10-Transformada de Hough [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Hough.pdf)
 
 ### Clase 26 Sab. 25-May-2024:
-* 8.3-Segmentacion usando Watershed [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_Watershed.pdf)
-* 8.3-Ejemplo Watershed [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_Watershed.ipynb)
-* 8.1-Segmentacion con filtros tipo template [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_SegmentacionMascaras.pdf)
-* 8.5-Segmentacion de movimiento [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/TRAT08_SegMovimiento.pdf)
-* 8.5-Ejemplo de segmentacion de movimiento [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Matlab_Python/TRAT08_SegVideo.ipynb)
+* 8.11-Segmentacion usando Watershed [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Watershed.pdf)
+* 8.12-Segmentacion con filtros tipo template [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_SegmentacionMascaras.pdf)
+* 8.13-Segmentacion de movimiento [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_SegMovimiento.pdf)
+* 8.14-Otras Segmentaciones [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Segmentacion_y_otras.pdf)
+* 8.15- Códigos Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap08_Segmentaci%C3%B3n/Python)
 
 ## Semana 14
-### Clase 27 Vie. 10-Nov-2023
-* 2.2-Procesamiento de imagenes a color (introduccion) [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_Introduccion.pdf)
-* 2.2-Segmentacion de imagenes a color [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_Segmentacion.pdf)
-* 2.1-Segmentacion a color con k-means [Código Jupiter](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Matlab/TRAT02_ColorSegmentation_KMeans.ipynb)
-* 2.1-Paper de segmentacion a color [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorSegmentation_Paper.pdf)
+### Clase 27 Vie. 31-May-2024
+* 2.1-Procesamiento de imagenes a color (introduccion) [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_Introduccion.pdf)
+* 2.2-Segmentacion de imagenes a color [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_Segmentacion.pdf)
+* 2.3-Archivos Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap02_Color/Python)
+* 2.4-Paper de segmentacion a color [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorSegmentation_Paper.pdf)
 
-### Clase 28 Sab. 11-Nov-20232:
-* 2.2-Espacios de color [PPT](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorSpaces.pdf)
-* 2.1-Ejemplo de mejoramiento de imagen a color oscura [Código Jupiter](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Matlab/TRAT02_ColorEnhacement.ipynb)
-* 2.2-Preguntas Frecuentes sobre el Color [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorFAQ.pdf)
-* 2.3-Conversiones de espacios de color [Apuntes]()
-* 2.3-Capitulo sobre Color (libro Forsyth) [Apuntes](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_CapituloColor_Forsyth.pdf)
-* 2.3-Paper sobre medicion Lab a partir de imagenes RGB [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ColorMeasurementLab_Paper.pdf)
-* 2.3-La fisica y la sicologia del color (Andrew Hanson) [YouTube](https://youtu.be/af78RPi6ayE)
-* 2.3-Espacios HSL y HSV [Apuntes]
-* 2.3-Herramientas para la conversiones de espacios de color [Link](http://brucelindbloom.com/)
-* 2.3-Filtros artisticos [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/TRAT02_ArtisticFilters.pdf)
+### Clase 28 Sab. 1-Jun-2024:
+* 2.5-Espacios de color [PPT](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorSpaces.pdf)
+* 2.6-Preguntas Frecuentes sobre el Color [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorFAQ.pdf)
+* 2.7-Paper sobre medicion Lab a partir de imagenes RGB [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorMeasurementLab_Paper.pdf)
+* 2.8-La fisica y la sicologia del color (Andrew Hanson) [YouTube](https://youtu.be/af78RPi6ayE)
+* 2.9-Herramientas para la conversiones de espacios de color [Link](http://brucelindbloom.com/)
+* 2.10-Filtros artisticos [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ArtisticFilters.pdf)
 
 ## Semana 15
-### Clase 29 Vie. 17-Nov-2023:
+### Clase 29 Vie. 7-Jun-2024:
 8.6-Avances Presentaciones de Proyecto Final
 
-### Clase 30 Sab. 18-Nov-2023:
+### Clase 30 Sab. 8-Jun-2024:
 * Presentación Proyecto Final
 
 ## Semana 16
-### Clase 31 Vie. 24-Nov-2023:
+### Clase 31 Vie. 14-Jun-2024:
 * Presentación Proyecto Final
 
-### Clase 32 Sab. 25-Nov-2023:
+### Clase 32 Sab. 15-Jun-2024:
 * Presentación Proyecto Final
 _______________________________________________________
 
-Actualizado el 29-1-2024
+Actualizado el 30-1-2024
 
