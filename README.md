@@ -99,7 +99,7 @@ Curso de Tratamiento de Señales 2023-2
 * 5.1 Efecto Aliasing al girar una llanta [Youtube](https://www.youtube.com/watch?v=VNftf5qLpiA)
 * 5.2-Filtro Homomorfico (opcional) [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento_Frecuencia/presentationes/EL442_05_FiltroHomomorfico.pdf)
 * 5.3 Transformada Discreta de Coseno (DCT) [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_05_TransformadaDCT.pdf)
-* 5.4 Códigos de Python en ésta Carpeta [Carpeta[]()](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap05_Mejoramiento/Python)
+* 5.4 Códigos de Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap05_Mejoramiento/Python)
 * 5.5-JPEG DCT, Discrete Cosine Transform [Video](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
 * 5.6 Filtros Gabor [ppt](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_05_FiltrosGabor.pdf)
 * 5.7 Transformada Haar [PPTX](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_05_TransformadaHaar_ViolaJones.pdf)
