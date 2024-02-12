@@ -1,7 +1,7 @@
 # Tratamiento de Señales
 link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/AKfycbxZlqGuOQeK2EGc4FZ6xVL21Uc9HC9SvelF0gZn8V8/dev)
 
-# Curso de Tratamiento de Señales 2023-2
+# Curso de Tratamiento de Señales 2024-1
 ## Planificación del Curso por Días
 
 ## Semana 1
