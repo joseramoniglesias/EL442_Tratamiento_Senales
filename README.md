@@ -30,8 +30,11 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 * 1.4 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=nbwPPcwknPU)
 * 1.4 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
 * 1.4-Funcionamiento del ojo humano (problemas en la vision)[Video](https://www.youtube.com/watch?v=AsKeu4wm3XI)
-* 1.4-Simulacion de ondas [Link](https://www.falstad.com/ripple/)
-* 1.4-Video - Ilusiones del color (Charla TED) [YouTube](https://www.youtube.com/watch?v=mf5otGNbkuc)
+* 1.4 Simulacion de ondas [Link](https://www.falstad.com/ripple/)
+* 1.4 Video - Ilusiones del color (Charla TED) [YouTube](https://www.youtube.com/watch?v=mf5otGNbkuc)
+* 1.4 Simulaciones de Refracción [Link](https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_en.html)
+* 1.4 Simulaciones de Interferencia [Link](https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_en.html)
+* 1.4 Simulaciones de Visión a color [Link](https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_en.html)
 
 ## Semana 3
 ### Clase 5 Vie 1-Mar 2024:
