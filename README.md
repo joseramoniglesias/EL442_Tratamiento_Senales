@@ -6,7 +6,7 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 
 ## Semana 1
 ### Clase 01 Vi 09-Ago 2024:
-* 0.1 Programa del Curso [XLS](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Plan_Asignatura/Formato%20Plan%20de%20Asignatura%20v3_EL442_Tratamiento_Senales.xlsx)
+* 0.1 Programa del Curso [XLS]([https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Plan_Asignatura/Formato%20Plan%20de%20Asignatura%20v3_EL442_Tratamiento_Senales.xlsx)
 * 0.1 Desarrollo del curso [XLS](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Plan_Asignatura/Formato%20Plan%20de%20desarrollo%20de%20asignatura%20v2_JRIglesias_EL442.xlsx)
 * 0.1 Presentación del Curso [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Generales/Programa/TRAT00_Presentacion.pdf)
 * 1.1 Pixel [PPT]([https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Pixels.pdf)
