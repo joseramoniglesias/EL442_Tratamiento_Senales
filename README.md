@@ -10,7 +10,7 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 * 0.1 Desarrollo del curso [XLS](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Plan_Asignatura/Formato%20Plan%20de%20desarrollo%20de%20asignatura%20v2_JRIglesias_EL442.xlsx)
 * 0.1 Presentación del Curso [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Generales/Programa/TRAT00_Presentacion.pdf)
 * 1.1 Pixel [PPT]([https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Pixels.pdf)
-* 1.1 El código Python se encuentra en está carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap01_Introducci%C3%B3n/Python)
+* 1.1 El código Python se encuentra en la carpeta Notebooks 
 * 1.1 Descargar Anaconda [Internet](https://www.anaconda.com/)
 * 1.1 Licencia gratuita [Internet](https://www.jetbrains.com/es-es/community/education/#students/)
 * 1.1 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
@@ -18,12 +18,12 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 
 ### Clase 2 Sáb 10-Ago 2024:
 * 1.2 Introducción Procesamiento de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Introduccion.pdf)
-* 1.2 El código Python se encuentra en la carpeta Notebook 
+* 1.2 El código Python se encuentra en la carpeta Notebooks 
 
 ## Semana 2
 ### Clase 3 Vie 16-Ago 2024:
 * 1.3 Adquisición de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Adquisicion.pdf)
-* 1.3 El código Python se encuentra en la carpeta Notebook
+* 1.3 El código Python se encuentra en la carpeta Notebooks
 
 ### Clase 4 Sáb 17-Ago 2024:
 * 1.4 Luz, espectro, percepción [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Luz-Ondas-Ojo.pdf)
@@ -38,7 +38,7 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 
 ## Semana 3
 ### Clase 5 Vie 23-Ago 2024:
-* 1.5 Ejercicios de Segmentación [Carpeta]
+* 1.5 Ejercicios de Segmentación carpeta Notebooks
 * 1.3 Trabajo en Clases 
 
 ### Clase 6 Sáb 24-ago 2024:
