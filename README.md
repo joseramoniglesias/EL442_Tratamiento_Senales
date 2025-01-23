@@ -45,13 +45,13 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 ### Clase 6 Sáb 22-Feb 2025:
 *  3.1 Transformacioines Geométricas [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Transformaciones_Geometricas.pdf)
 *  3.2 Lectura Obligatoria [Paper](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_InterpolationTheory.pdf)
-*  3.3 Ejemplo de Transformaciones Geométricas [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap03_Mejoramiento_Espacial/Python)
+*  3.3 Ejemplo de Transformaciones Geométricas [Carpeta Notebook]
   
 ## Semana 4
 ### Clase 7 Vie 28-Feb 2025:
 * 3.1 Histogramas[PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Histogramas.pdf)
 * 3.1 Ecualización de Histogramas [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_EcualizacionHistograma.pdf)
-* 3.1 Códigos de Python en esta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap03_Mejoramiento_Espacial/Python)
+* 3.1 Códigos de Python en esta Carpeta [Carpeta Notebook]
 * 3.1 Operaciones Aritméticas [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Aritmetica.pdf)
 * 3.1 Operaciones con Máscaras [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Mascaras.pdf)
 
@@ -61,17 +61,17 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 ## Semana 5
 ### Clase 9 Vié  07-Mar 2025:
 * 3.3 Animación con Máscaras [Video](https://twitter.com/3blue1brown/status/1303489896519139328?s=20)
-* 3.3 Códigos de Python en ésta carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap03_Mejoramiento_Espacial/Python)
+* 3.3 Códigos de Python en ésta carpeta [Carpeta Notebook]
   
 ### Clase 10 Sab 08-Mar 2025:
 * 4.1 Respuesta al Impulso [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_FuncionImpulso.pdf)
 * 4.2 Convolución en 1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Convolucion1D.pdf)
-* 4.2 Códigos de Python en ésta carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap04_Sistemas_Lineales/Python)
+* 4.2 Códigos de Python en ésta carpeta [Carpeta Notebook]
 
 ## Semana 6
 ### Clase 11 Vie 14-Mar 2025:
 * 4.4 Transformada de Fourier 1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Fourier1D.pdf)
-* 4.4 Códigos de Python en ésta carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap04_Sistemas_Lineales/Python)
+* 4.4 Códigos de Python en ésta carpeta [Carpeta Notebook]
 
 ### Clase 12 Sab 15-Mar-2025:
 * 4.2 Trabajo en Clases Código
@@ -91,9 +91,8 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 ## Semana 8
 ### Clase 15 Vier 28-Mar 2025:
 * 4.5 Implementación de Filtros usando Transformada de Fourier [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Fourier2D_ImplementacionFiltros.pdf)
-* 4.5 Códigos de Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap04_Sistemas_Lineales/Python)
-* 4.5-Filtros en 2D en el dominio de frecuencia [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentationes/EL442_04_Fourier2D_Filtros.pdf)
-* Trabajo en Clase 
+* 4.5 Códigos de Python en ésta Carpeta [Carpeta Notebook]
+ * Trabajo en Clase 
 
 ### Clase 16 Sab 29-Mar 2025:
 * Tareas en clase Ejercicio
@@ -103,7 +102,7 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 * 5.1 Efecto Aliasing al girar una llanta [Youtube](https://www.youtube.com/watch?v=VNftf5qLpiA)
 * 5.2-Filtro Homomorfico (opcional) [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento_Frecuencia/presentationes/EL442_05_FiltroHomomorfico.pdf)
 * 5.3 Transformada Discreta de Coseno (DCT) [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_05_TransformadaDCT.pdf)
-* 5.4 Códigos de Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap05_Mejoramiento/Python)
+* 5.4 Códigos de Python en ésta Carpeta [Carpeta Notebook]
 * 5.5-JPEG DCT, Discrete Cosine Transform [Video](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
 * 5.6 Filtros Gabor [ppt](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_05_FiltrosGabor.pdf)
 * 5.7 Transformada Haar [PPTX](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_05_TransformadaHaar_ViolaJones.pdf)
@@ -128,11 +127,11 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 ### Clase 21 Vie. 25-Abr 2025:
 * 6.1-Deconvolucion [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/EL442_06_Deconvolution.pdf)
 * 6.2-Estimacion de PSF [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/EL442_06_PSF.pdf)
-* 6.4- Códigos Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Python)
+* 6.4- Códigos Python en ésta Carpeta [Carpeta Notebook]
 
 ### Clase 22 Sab. 26-Abr 2025:
 * 7.1-Morfologia [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/EL442_07_Morfologia.pdf)
-* 7.2-Códigos Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap07_Morfologia/Python)
+* 7.2-Códigos Python en ésta Carpeta [Carpeta Notebook]
 
 ## Semana 12
 ### Clase 23 Vie. 2-May 2025:
@@ -140,7 +139,7 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 * 7.4-Mediana [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_07_Mediana.pdf)
 * 8.1-Segmentacion [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_08_Segmentation.pdf)
 * 8.2-Region Growing [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_08_RegionGrowing.pdf)
-* 8.3- Códigos Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap08_Segmentaci%C3%B3n/Python)
+* 8.3- Códigos Python en ésta Carpeta [Carpeta] Notebook
 
 ### Clase 24 Sab. 03-May 2025:
 * 8.4-Trabajo en Grupo
@@ -159,13 +158,13 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 * 8.12-Segmentacion con filtros tipo template [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_SegmentacionMascaras.pdf)
 * 8.13-Segmentacion de movimiento [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_SegMovimiento.pdf)
 * 8.14-Otras Segmentaciones [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Segmentacion_y_otras.pdf)
-* 8.15- Códigos Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap08_Segmentaci%C3%B3n/Python)
+* 8.15- Códigos Python en ésta Carpeta [Carpeta Notebook]
 
 ## Semana 14
 ### Clase 27 Vie. 16-May 2025
 * 2.1-Procesamiento de imagenes a color (introduccion) [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_Introduccion.pdf)
 * 2.2-Segmentacion de imagenes a color [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_Segmentacion.pdf)
-* 2.3-Archivos Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap02_Color/Python)
+* 2.3-Archivos Python en ésta Carpeta [Carpeta Notebook]
 * 2.4-Paper de segmentacion a color [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorSegmentation_Paper.pdf)
 
 ### Clase 28 Sab. 17-May 2025:
