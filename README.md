@@ -10,6 +10,7 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 * 0.1 Desarrollo del curso [XLS](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Plan_Asignatura/Formato%20Plan%20de%20desarrollo%20de%20asignatura%20v2_JRIglesias_EL442.xlsx)
 * 0.1 Presentación del Curso [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Generales/Programa/TRAT00_Presentacion.pdf)
 * 1.1 Pixel [PPT]([https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Pixels.pdf)
+* 1.1.1 Relaciones entre pixeles [PDF](https://github.com/joseramoniglesias/EL442_Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_RelacionesEntrePixeles.pdf)
 * 1.1 El código Python se encuentra en la carpeta Notebooks 
 * 1.1 Descargar Anaconda [Internet](https://www.anaconda.com/)
 * 1.1 Licencia gratuita [Internet](https://www.jetbrains.com/es-es/community/education/#students/)
