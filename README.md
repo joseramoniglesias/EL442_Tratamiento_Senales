@@ -150,7 +150,7 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 * 8.6-Metodo de MSER [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_MSER.pdf)
 * 8.7-Deteccion de bordes (PARTE 1) [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Bordes_1.pdf)
 * 8.8-Deteccion de bordes (PARTE 2) [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Bordes_2.pdf)
-* 8.9- Códigos Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap08_Segmentaci%C3%B3n/Python)
+* 8.9- Códigos Python en ésta Carpeta [Carpeta Notebook]
 * 8.10-Transformada de Hough [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Hough.pdf)
 
 ### Clase 26 Sab. 10-May 2025:
