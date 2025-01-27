@@ -134,18 +134,18 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 * 7.2-Códigos Python en ésta Carpeta [Carpeta Notebook]
 
 ## Semana 12
-### Clase 23 Vie. 2-May 2025:
+### Clase 23 Vie. 9-May 2025:
 * 7.3-TopHat [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_07_TopHat.pdf)
 * 7.4-Mediana [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_07_Mediana.pdf)
 * 8.1-Segmentacion [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_08_Segmentation.pdf)
 * 8.2-Region Growing [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_08_RegionGrowing.pdf)
 * 8.3- Códigos Python en ésta Carpeta [Carpeta] Notebook
 
-### Clase 24 Sab. 03-May 2025:
+### Clase 24 Sab. 10-May 2025:
 * 8.4-Trabajo en Grupo
   
 ## Semana 13
-### Clase 25 Vie. 09-May 2025:
+### Clase 25 Vie. 16-May 2025:
 * 8.5-Metodo de Otsu [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Otsu.pdf)
 * 8.6-Metodo de MSER [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_MSER.pdf)
 * 8.7-Deteccion de bordes (PARTE 1) [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Bordes_1.pdf)
@@ -153,7 +153,7 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 * 8.9- Códigos Python en ésta Carpeta [Carpeta Notebook]
 * 8.10-Transformada de Hough [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Hough.pdf)
 
-### Clase 26 Sab. 10-May 2025:
+### Clase 26 Sab. 17-May 2025:
 * 8.11-Segmentacion usando Watershed [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Watershed.pdf)
 * 8.12-Segmentacion con filtros tipo template [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_SegmentacionMascaras.pdf)
 * 8.13-Segmentacion de movimiento [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_SegMovimiento.pdf)
@@ -161,13 +161,13 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 * 8.15- Códigos Python en ésta Carpeta [Carpeta Notebook]
 
 ## Semana 14
-### Clase 27 Vie. 16-May 2025
+### Clase 27 Vie. 23-May 2025
 * 2.1-Procesamiento de imagenes a color (introduccion) [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_Introduccion.pdf)
 * 2.2-Segmentacion de imagenes a color [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_Segmentacion.pdf)
 * 2.3-Archivos Python en ésta Carpeta [Carpeta Notebook]
 * 2.4-Paper de segmentacion a color [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorSegmentation_Paper.pdf)
 
-### Clase 28 Sab. 17-May 2025:
+### Clase 28 Sab. 24-May 2025:
 * 2.5-Espacios de color [PPT](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorSpaces.pdf)
 * 2.6-Preguntas Frecuentes sobre el Color [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorFAQ.pdf)
 * 2.7-Paper sobre medicion Lab a partir de imagenes RGB [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorMeasurementLab_Paper.pdf)
@@ -176,17 +176,17 @@ link de la Encuesta [Link](https://script.google.com/a/macros/unicesar.edu.co/s/
 * 2.10-Filtros artisticos [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ArtisticFilters.pdf)
 
 ## Semana 15
-### Clase 29 Vie. 23-May 2025:
+### Clase 29 Vie. 30-May 2025:
 8.6-Avances Presentaciones de Proyecto Final
 
-### Clase 30 Sab. 24-May 2025:
+### Clase 30 Sab. 31-May 2025:
 * Presentación Proyecto Final
 
 ## Semana 16
-### Clase 31 Vie. 30-May 2025:
+### Clase 31 Vie. 06-Jun 2025:
 * Presentación Proyecto Final
 
-### Clase 32 Sab. 31-May-2025:
+### Clase 32 Sab. 07-Jun-2025:
 * Presentación Proyecto Final
 _______________________________________________________
 
