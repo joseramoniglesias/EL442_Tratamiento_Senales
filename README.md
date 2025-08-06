@@ -12,7 +12,6 @@
 * 1.1 Pixel [PPT]([https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Pixels.pdf)
 * 1.1.1 Relaciones entre pixeles [PDF](https://github.com/joseramoniglesias/EL442_Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_RelacionesEntrePixeles.pdf)
 * 1.1 El código Python se encuentra en la carpeta Notebooks 
-* 1.1 Descargar Anaconda [Internet](https://www.anaconda.com/)
 * 1.1 Licencia gratuita [Internet](https://www.jetbrains.com/es-es/community/education/#students/)
 * 1.1 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
 * 1.1 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
