@@ -23,18 +23,15 @@
 ## Semana 2
 ### Clase 3 Vie 22-Ago 2025:
 * 1.3 Adquisición de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Adquisicion.pdf)
+* 1.3 Introducción al Color [PPTX](https://github.com/joseramoniglesias/EL442_Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_Introduccion.pdf)
+* 1.3 Espacios de Color [PPTX](https://github.com/joseramoniglesias/EL442_Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorSpaces.pdf)
 * 1.3 El código Python se encuentra en la carpeta Notebooks
 
 ### Clase 4 Sáb 23-Ago 2025:
-* 1.4 Luz, espectro, percepción [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Luz-Ondas-Ojo.pdf)
-* 1.4 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=nbwPPcwknPU)
-* 1.4 Funcionamiento del Ojo Humano [Video](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
-* 1.4-Funcionamiento del ojo humano (problemas en la vision)[Video](https://www.youtube.com/watch?v=AsKeu4wm3XI)
-* 1.4 Simulacion de ondas [Link](https://www.falstad.com/ripple/)
 * 1.4 Video - Ilusiones del color (Charla TED) [YouTube](https://www.youtube.com/watch?v=mf5otGNbkuc)
-* 1.4 Simulaciones de Refracción [Link](https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_en.html)
-* 1.4 Simulaciones de Interferencia [Link](https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_en.html)
 * 1.4 Simulaciones de Visión a color [Link](https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_en.html)
+* 1.4 Herramientas para la conversiones de espacios de color [Link](http://brucelindbloom.com/)
+* 1.4 El código Python se encuentra en la Carpeta Notebook
 
 ## Semana 3
 ### Clase 5 Vie 29-Ago 2025:
@@ -161,18 +158,13 @@
 
 ## Semana 14
 ### Clase 27 Vie. 14-Nov 2025
-* 2.1-Procesamiento de imagenes a color (introduccion) [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_Introduccion.pdf)
 * 2.2-Segmentacion de imagenes a color [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_Segmentacion.pdf)
 * 2.3-Archivos Python en ésta Carpeta [Carpeta Notebook]
 * 2.4-Paper de segmentacion a color [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorSegmentation_Paper.pdf)
 
 ### Clase 28 Sab. 15-Nov 2025:
-* 2.5-Espacios de color [PPT](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorSpaces.pdf)
-* 2.6-Preguntas Frecuentes sobre el Color [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorFAQ.pdf)
 * 2.7-Paper sobre medicion Lab a partir de imagenes RGB [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorMeasurementLab_Paper.pdf)
 * 2.8-La fisica y la sicologia del color (Andrew Hanson) [YouTube](https://youtu.be/af78RPi6ayE)
-* 2.9-Herramientas para la conversiones de espacios de color [Link](http://brucelindbloom.com/)
-* 2.10-Filtros artisticos [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ArtisticFilters.pdf)
 
 ## Semana 15
 ### Clase 29 Vie. 21-Nov 2025:
