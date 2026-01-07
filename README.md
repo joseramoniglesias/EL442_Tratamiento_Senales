@@ -1,9 +1,10 @@
 # Tratamiento de Señales
 
 
-# Curso de Tratamiento de Señales 2025-2
+# Curso de Tratamiento de Señales 2026-1
 ## Planificación del Curso por Días
 
+# Capítulo I
 ## Semana 1
 ### Clase 01 Vi 15-Ago 2025:
 * 0.1 Programa del Curso [XLS]([https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Plan_Asignatura/Formato%20Plan%20de%20Asignatura%20v3_EL442_Tratamiento_Senales.xlsx)
