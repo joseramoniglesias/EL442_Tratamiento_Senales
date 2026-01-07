@@ -4,7 +4,7 @@
 # Curso de Tratamiento de Señales 2026-1
 ## Planificación del Curso por Días
 
-# Capítulo I
+# Capítulo I Introducción
 ## Semana 1
 ### Clase 01 Vi 15-Ago 2025:
 * 0.1 Programa del Curso [XLS]([https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Plan_Asignatura/Formato%20Plan%20de%20Asignatura%20v3_EL442_Tratamiento_Senales.xlsx)
@@ -21,6 +21,7 @@
 * 1.2 Introducción Procesamiento de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Introduccion.pdf)
 * 1.2 El código Python se encuentra en la carpeta Notebooks 
 
+# Capítulo II Introducción al Color
 ## Semana 2
 ### Clase 3 Vie 22-Ago 2025:
 * 1.3 Adquisición de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Adquisicion.pdf)
