@@ -6,7 +6,7 @@
 
 # Capítulo I Introducción
 ## Semana 1
-### Clase 01 Vi 15-Ago 2025:
+### Clase 01 Vi 13-Feb 2026:
 * 0.1 Programa del Curso [XLS]([https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Plan_Asignatura/Formato%20Plan%20de%20Asignatura%20v3_EL442_Tratamiento_Senales.xlsx)
 * 0.1 Desarrollo del curso [XLS](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/Plan_Asignatura/Formato%20Plan%20de%20desarrollo%20de%20asignatura%20v2_JRIglesias_EL442.xlsx)
 * 0.1 Presentación del Curso [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Generales/Programa/TRAT00_Presentacion.pdf)
@@ -17,86 +17,86 @@
 * 1.1 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
 * 1.1 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
 
-### Clase 2 Sáb 16-Ago 2025:
+### Clase 2 Sáb 14-Feb 2026:
 * 1.2 Introducción Procesamiento de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Introduccion.pdf)
 * 1.2 El código Python se encuentra en la carpeta Notebooks 
 
 # Capítulo II Introducción al Color
 ## Semana 2
-### Clase 3 Vie 22-Ago 2025:
+### Clase 3 Vie 20-Feb 2026:
 * 1.3 Adquisición de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Adquisicion.pdf)
 * 1.3 Introducción al Color [PPTX](https://github.com/joseramoniglesias/EL442_Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_Introduccion.pdf)
 * 1.3 Espacios de Color [PPTX](https://github.com/joseramoniglesias/EL442_Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorSpaces.pdf)
 * 1.3 El código Python se encuentra en la carpeta Notebooks
 
-### Clase 4 Sáb 23-Ago 2025:
+### Clase 4 Sáb 21-Feb 2026:
 * 1.4 Video - Ilusiones del color (Charla TED) [YouTube](https://www.youtube.com/watch?v=mf5otGNbkuc)
 * 1.4 Simulaciones de Visión a color [Link](https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_en.html)
 * 1.4 Herramientas para la conversiones de espacios de color [Link](http://brucelindbloom.com/)
 * 1.4 El código Python se encuentra en la Carpeta Notebook
 
 ## Semana 3
-### Clase 5 Vie 29-Ago 2025:
+### Clase 5 Vie 27-Feb 2026:
 * 1.5 Ejercicios de Segmentación carpeta Notebooks
 * 1.3 Trabajo en Clases 
 
-### Clase 6 Sáb 30-Ago 2025:
+### Clase 6 Sáb 28-Feb 2026:
 *  3.1 Transformacioines Geométricas [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Transformaciones_Geometricas.pdf)
 *  3.2 Lectura Obligatoria [Paper](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_InterpolationTheory.pdf)
 *  3.3 Ejemplo de Transformaciones Geométricas [Carpeta Notebook]
   
 ## Semana 4
-### Clase 7 Vie 5-Sep 2025:
+### Clase 7 Vie 6-Mar 2026:
 * 3.1 Histogramas[PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Histogramas.pdf)
 * 3.1 Ecualización de Histogramas [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_EcualizacionHistograma.pdf)
 * 3.1 Códigos de Python en esta Carpeta [Carpeta Notebook]
 * 3.1 Operaciones Aritméticas [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Aritmetica.pdf)
 * 3.1 Operaciones con Máscaras [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Mascaras.pdf)
 
-### Clase 8 Sáb 6-Sep 2025:
+### Clase 8 Sáb 7-Mar 2026:
 * 3.3 Trabajo en Clases Ejer_03 [Codigo]
 
 ## Semana 5
-### Clase 9 Vié  12-Sep 2025:
+### Clase 9 Vié  13-Mar 2026:
 * 3.3 Animación con Máscaras [Video](https://twitter.com/3blue1brown/status/1303489896519139328?s=20)
 * 3.3 Códigos de Python en ésta carpeta [Carpeta Notebook]
   
-### Clase 10 Sab 13-Sep 2025:
+### Clase 10 Sab 14-Mar 2026:
 * 4.1 Respuesta al Impulso [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_FuncionImpulso.pdf)
 * 4.2 Convolución en 1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Convolucion1D.pdf)
 * 4.2 Códigos de Python en ésta carpeta [Carpeta Notebook]
 
 ## Semana 6
-### Clase 11 Vie 19-Sep 2025:
+### Clase 11 Vie 20-Mar 202:
 * 4.4 Transformada de Fourier 1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Fourier1D.pdf)
 * 4.4 Códigos de Python en ésta carpeta [Carpeta Notebook]
 
-### Clase 12 Sab 20-Sep-2025:
+### Clase 12 Sab 21-Mar-2026:
 * 4.2 Trabajo en Clases Código
 
 ## Semana 7
-### Clase 13 Vie 26-Sep 2025:
+### Clase 13 Vie 27-Mar 2026:
 * 4.4 Teoría de la Transformada de Fourier 1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Fourier1D_Teoria.pdf)
 * 4.4 Muestreo de Señales1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Muestreo1D_DFT.pdf)
 * 4.4 Convolucion en 1D usando Transformada de Fourier [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/presentaciones/EL442_04_Fourier1D_ConvolucionDiscreta.pdf)
 
-### Clase 14 Sab 27-Sep 2025:
+### Clase 14 Sab 28-Mar 2026:
 * 4.5 Transformada de Fourier 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Fourier_2D.pdf)
 * 4.5 Función Impulso en 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Impulso_2D.pdf)
 * 4.5 Muestreo en 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Muestreo_2D.pdf)
 * 4.3-Convolucion en 2D [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/main/clases/Cap04_Sistemas_Lineales/presentations/EL442_04_Fourier2D_Convolucion.PDF)
 
 ## Semana 8
-### Clase 15 Vier 3-Oct 2025:
+### Clase 15 Vier 10-Abr 2026:
 * 4.5 Implementación de Filtros usando Transformada de Fourier [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Fourier2D_ImplementacionFiltros.pdf)
 * 4.5 Códigos de Python en ésta Carpeta [Carpeta Notebook]
  * Trabajo en Clase 
 
-### Clase 16 Sab 4-Oct 2025:
+### Clase 16 Sab 11-Abr 2026:
 * Tareas en clase Ejercicio
 
 ## Semana 9
-### Clase 17 Vie 10-Oct 2025:
+### Clase 17 Vie 17-Abr 2026:
 * 5.1 Efecto Aliasing al girar una llanta [Youtube](https://www.youtube.com/watch?v=VNftf5qLpiA)
 * 5.2-Filtro Homomorfico (opcional) [[PPT]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento_Frecuencia/presentationes/EL442_05_FiltroHomomorfico.pdf)
 * 5.3 Transformada Discreta de Coseno (DCT) [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_05_TransformadaDCT.pdf)
@@ -106,44 +106,44 @@
 * 5.7 Transformada Haar [PPTX](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_05_TransformadaHaar_ViolaJones.pdf)
 * 5.8 Transformada Wavelet [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_05_Wavelets.pdf)
 
-### Clase 18 Sab 11-Oct 2025:
+### Clase 18 Sab 18-Abr 2026:
 * 6.1-Introducción [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_06_Examples.pdf)
 * 6.2-Restauracion con degradacion por movimiento lineal uniforme [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_06_Introduccion_Restauracion.pdf)
 * 6.3- C+odigos de Python en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/Tratamiento_Senales/tree/main/clases/Cap05_Mejoramiento/Python)
 * 6.1-Restauracion de Imagenes [[Paper]](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauracion/presentationes/EL442_06_ImageRestorarion_Paper.pdf)
 
 ## Semana 10
-### Clase 19 Vie 17-Octr 2025:
+### Clase 19 Vie 24-Abr 2026:
 * 6.1-Restauracion con degradacion 2D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/EL442_06_Blur2D.pdf)
 * 6.1-Ejercicio [Quiz]
 
-### Clase 20 Sab. 18-Oct 2025:
+### Clase 20 Sab. 25-Abr 2026:
 * 6.1-Ejercicio en clase (Cuestionario)
 * 6.1-Solucion al cuestionario de la clase anterior
 
 ## Semana 11
-### Clase 21 Vie. 24-Oct 2025:
+### Clase 21 Vie. 8-May 2026:
 * 6.1-Deconvolucion [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/EL442_06_Deconvolution.pdf)
 * 6.2-Estimacion de PSF [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/EL442_06_PSF.pdf)
 * 6.4- Códigos Python en ésta Carpeta [Carpeta Notebook]
 
-### Clase 22 Sab. 25-Oct 2025:
+### Clase 22 Sab. 9-May 2026:
 * 7.1-Morfologia [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/EL442_07_Morfologia.pdf)
 * 7.2-Códigos Python en ésta Carpeta [Carpeta Notebook]
 
 ## Semana 12
-### Clase 23 Vie. 31-Oct 2025:
+### Clase 23 Vie. 15-May 2026:
 * 7.3-TopHat [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_07_TopHat.pdf)
 * 7.4-Mediana [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_07_Mediana.pdf)
 * 8.1-Segmentacion [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_08_Segmentation.pdf)
 * 8.2-Region Growing [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_08_RegionGrowing.pdf)
 * 8.3- Códigos Python en ésta Carpeta [Carpeta] Notebook
 
-### Clase 24 Sab. 1-Nov 2025:
+### Clase 24 Sab. 16-May 2026:
 * 8.4-Trabajo en Grupo
   
 ## Semana 13
-### Clase 25 Vie. 7-Nov 2025:
+### Clase 25 Vie. 22-May 2026:
 * 8.5-Metodo de Otsu [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Otsu.pdf)
 * 8.6-Metodo de MSER [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_MSER.pdf)
 * 8.7-Deteccion de bordes (PARTE 1) [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Bordes_1.pdf)
@@ -151,7 +151,7 @@
 * 8.9- Códigos Python en ésta Carpeta [Carpeta Notebook]
 * 8.10-Transformada de Hough [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Hough.pdf)
 
-### Clase 26 Sab. 8-Nov 2025:
+### Clase 26 Sab. 23-May 2026:
 * 8.11-Segmentacion usando Watershed [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_Watershed.pdf)
 * 8.12-Segmentacion con filtros tipo template [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_SegmentacionMascaras.pdf)
 * 8.13-Segmentacion de movimiento [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentaci%C3%B3n/Presentaciones/EL442_08_SegMovimiento.pdf)
@@ -159,29 +159,29 @@
 * 8.15- Códigos Python en ésta Carpeta [Carpeta Notebook]
 
 ## Semana 14
-### Clase 27 Vie. 14-Nov 2025
+### Clase 27 Vie. 29-May 2026:
 * 2.2-Segmentacion de imagenes a color [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_Segmentacion.pdf)
 * 2.3-Archivos Python en ésta Carpeta [Carpeta Notebook]
 * 2.4-Paper de segmentacion a color [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorSegmentation_Paper.pdf)
 
-### Clase 28 Sab. 15-Nov 2025:
+### Clase 28 Sab. 30-May 2026:
 * 2.7-Paper sobre medicion Lab a partir de imagenes RGB [Paper](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Cap02_Color/Presentaciones/EL442_02_ColorMeasurementLab_Paper.pdf)
 * 2.8-La fisica y la sicologia del color (Andrew Hanson) [YouTube](https://youtu.be/af78RPi6ayE)
 
 ## Semana 15
-### Clase 29 Vie. 21-Nov 2025:
+### Clase 29 Vie. 5-Jun 202:
 8.6-Avances Presentaciones de Proyecto Final
 
-### Clase 30 Sab. 22-Nov 2025:
+### Clase 30 Sab. 6-Jun 2026:
 * Presentación Proyecto Final
 
 ## Semana 16
-### Clase 31 Vie. 28-Nov 2025:
+### Clase 31 Vie. 12-Jun 2026:
 * Presentación Proyecto Final
 
-### Clase 32 Sab. 29-Nov-2025:
+### Clase 32 Sab. 13-Jun-2026:
 * Presentación Proyecto Final
 _______________________________________________________
 
-Actualizado el 13-8-2025
+Actualizado el 23-1-2026
 
