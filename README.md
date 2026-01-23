@@ -61,7 +61,8 @@
 ### Clase 9 Vié  13-Mar 2026:
 * 3.3 Animación con Máscaras [Video](https://twitter.com/3blue1brown/status/1303489896519139328?s=20)
 * 3.3 Códigos de Python en ésta carpeta [Carpeta Notebook]
-  
+
+# Capítulo IV   
 ### Clase 10 Sab 14-Mar 2026:
 * 4.1 Respuesta al Impulso [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_FuncionImpulso.pdf)
 * 4.2 Convolución en 1D [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap04_Sistemas_Lineales/Presentaciones/EL442_04_Convolucion1D.pdf)
