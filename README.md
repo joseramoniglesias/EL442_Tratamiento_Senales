@@ -97,6 +97,7 @@
 ### Clase 16 Sab 11-Abr 2026:
 * Tareas en clase Ejercicio
 
+# Capítulo V Mejoramiento
 ## Semana 9
 ### Clase 17 Vie 17-Abr 2026:
 * 5.1 Efecto Aliasing al girar una llanta [Youtube](https://www.youtube.com/watch?v=VNftf5qLpiA)
@@ -108,6 +109,7 @@
 * 5.7 Transformada Haar [PPTX](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_05_TransformadaHaar_ViolaJones.pdf)
 * 5.8 Transformada Wavelet [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_05_Wavelets.pdf)
 
+# Capítulo VI Restauración
 ### Clase 18 Sab 18-Abr 2026:
 * 6.1-Introducción [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_06_Examples.pdf)
 * 6.2-Restauracion con degradacion por movimiento lineal uniforme [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_06_Introduccion_Restauracion.pdf)
