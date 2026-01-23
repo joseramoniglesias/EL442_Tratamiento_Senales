@@ -109,7 +109,7 @@
 * 5.7 Transformada Haar [PPTX](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_05_TransformadaHaar_ViolaJones.pdf)
 * 5.8 Transformada Wavelet [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_05_Wavelets.pdf)
 
-# Capítulo VI Restauración
+# Capítulo VI Restauración de Imágenes
 ### Clase 18 Sab 18-Abr 2026:
 * 6.1-Introducción [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_06_Examples.pdf)
 * 6.2-Restauracion con degradacion por movimiento lineal uniforme [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap05_Mejoramiento/Presentaciones/EL442_06_Introduccion_Restauracion.pdf)
@@ -131,10 +131,12 @@
 * 6.2-Estimacion de PSF [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap06_Restauraci%C3%B3n_Im%C3%A1genes/Presetaciones/EL442_06_PSF.pdf)
 * 6.4- Códigos Python en ésta Carpeta [Carpeta Notebook]
 
+# Capítulo VII Morfología
 ### Clase 22 Sab. 9-May 2026:
 * 7.1-Morfologia [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap07_Morfologia/Presentaciones/EL442_07_Morfologia.pdf)
 * 7.2-Códigos Python en ésta Carpeta [Carpeta Notebook]
 
+# Capítulo VIII Segmentación
 ## Semana 12
 ### Clase 23 Vie. 15-May 2026:
 * 7.3-TopHat [PPT](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap08_Segmentación/Presentaciones/EL442_07_TopHat.pdf)
