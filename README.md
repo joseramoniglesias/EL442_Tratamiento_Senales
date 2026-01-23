@@ -40,6 +40,7 @@
 * 1.5 Ejercicios de Segmentación carpeta Notebooks
 * 1.3 Trabajo en Clases 
 
+# Capítulo III
 ### Clase 6 Sáb 28-Feb 2026:
 *  3.1 Transformacioines Geométricas [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_Transformaciones_Geometricas.pdf)
 *  3.2 Lectura Obligatoria [Paper](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap03_Mejoramiento_Espacial/Presentaciones/EL442_03_InterpolationTheory.pdf)
