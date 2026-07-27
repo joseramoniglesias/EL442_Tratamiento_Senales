@@ -1,7 +1,7 @@
 # Tratamiento de Señales
 
 
-# Curso de Tratamiento de Señales 2026-1
+# Curso de Tratamiento de Señales 2026-2
 ## Planificación del Curso por Días
 
 # Capítulo I Introducción
