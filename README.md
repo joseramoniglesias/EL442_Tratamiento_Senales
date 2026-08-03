@@ -30,6 +30,7 @@
 * 1.3 El código Python se encuentra en la carpeta Notebooks
 
 ### Clase 4 Sáb 22-Ago 2026:
+* 1.4 Operadores de pixeles [PPTX](https://github.com/joseramoniglesias/EL442_Tratamiento_Senales/blob/main/clases/Cap02_Color/Presentaciones/EL442_Operadores_pixel.pdf)
 * 1.4 Video - Ilusiones del color (Charla TED) [YouTube](https://www.youtube.com/watch?v=mf5otGNbkuc)
 * 1.4 Simulaciones de Visión a color [Link](https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_en.html)
 * 1.4 Herramientas para las conversiones de espacios de color [Link](http://brucelindbloom.com/)
