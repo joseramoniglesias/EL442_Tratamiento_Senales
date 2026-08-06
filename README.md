@@ -14,7 +14,7 @@
 * 1.1.1 Relaciones entre pixeles [PDF](https://github.com/joseramoniglesias/EL442_Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_RelacionesEntrePixeles.pdf)
 * 1.1 El código Python se encuentra en la carpeta Notebooks 
 * 1.1 Licencia gratuita [Internet](https://www.jetbrains.com/es-es/community/education/#students/)
-* 1.1 Descargar Pycharms [Internet]([https://www.jetbrains.com/es-es/pycharm/download/?section=windows)
+* 1.1 Descargar Pycharms [Internet](https://www.jetbrains.com/es-es/pycharm/download/?section=windows)
 
 ### Clase 2 Sáb 15-Ago 2026:
 * 1.2 Introducción Procesamiento de Imágenes [PDF](https://github.com/joseramoniglesias/Tratamiento_Senales/blob/main/clases/Cap01_Introducci%C3%B3n/Prsentaciones/EL442_01_Introduccion.pdf)
